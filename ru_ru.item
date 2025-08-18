@@ -1,0 +1,231 @@
+luckywars-item-luckyblock = <yellow>Лаки блок
+luckywars-item-game_queue = <font:luckywars:name_rare>&+[ВОЙТИ В ИГРУ&+]
+luckywars-item-air_bridge = <font:luckywars:name_usaly>&+[ПЕРЕЛЕТНЫЙ МОСТ&+]
+luckywars-item-lore-air_bridge [
+ <font:luckywars:lore_border>&+A__________________________+_&+B
+ <font:luckywars:lore_border>1<font:luckywars:lore>+&+КУДА КИНУЛ - ТУДА ПОСТРОИЛ,&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1<font:luckywars:lore>+&+А ГЛАВНОЕ - БЕЗОПАСНО!      &+++++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C--------------------------+-&+D
+]
+luckywars-item-boomerang = <font:luckywars:name_usaly>&+[БУМЕРАНГ&+]
+luckywars-item-lore-boomerang [
+ <font:luckywars:lore_border>&+A______________________&++++B
+ <font:luckywars:lore_border>1<font:luckywars:lore>+&+ВСЕГДА ВЕРНЕТСЯ К ВАМ,&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1<font:luckywars:lore>+&+И НЕ С ПУСТЫМИ РОГАМИ.&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C----------------------&++++D
+]
+luckywars-item-chilli = <font:luckywars:name_usaly>&+[ПЕРЧИК&+]
+luckywars-item-lore-chilli [
+ <font:luckywars:lore_border>&+A__________________________&++B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ВСКУНЫЙ, ПОЛЕЗНЫЙ, НЕМНОГО &++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ЖГУЧИЙ, НО ЭТО ДЛЯ ВКУСА.  &+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C--------------------------&++D
+]
+luckywars-item-tnt = <font:luckywars:name_usaly>&+[ДИНАМИТ&+]
+luckywars-item-lore-tnt [
+ <font:luckywars:lore_border>&+A________________++&++B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ВЗРЫВООПАСНЫЙ  &++<font:luckywars:lore_border>0
+  <font:luckywars:lore_border>1+<font:luckywars:lore>&+И УНИВЕРСАЛЬНЫЙ&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C----------------++&++D
+]
+luckywars-item-electric_stick = <font:luckywars:name_rare>&+[ЭЛЕКТРИЧЕСКИЙ ЗАКЛИНАТЕЛЬ&+]
+luckywars-item-lore-electric_stick [
+ <font:luckywars:lore_border>&+A________________________++&++B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+Я КАК ГРОМ СРЕДИ ЯСНОГО&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+НЕБА, ВСЕЛЯЮ ГРОЗНЫЙ    &+++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+УЖАС, НУ ИЛИ КАК-ТО ТАК. &++++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+                        &++++++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ИСПОЛЬЗУЙ КОМБИНАЦИИ   &+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ЛКМ, ПКМ И ШИФТ         &++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ДЛЯ РАЗНЫХ ЗАКЛИНАНИЙ.  &++++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C------------------------++&++D
+]
+luckywars-item-end_crystal = <font:luckywars:name_rare>&+[КРИСТАЛ ЭНДА&+]
+luckywars-item-lore-end_crystal [
+ <font:luckywars:lore_border>&+A___________&+++B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+НЕСЪЕДОБНО!&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C-----------&+++D
+]
+luckywars-item-flame_stick = <font:luckywars:name_rare>&+[ОГНЕННЫЙ ПОВЕЛИВАТЕЛЬ&+]
+luckywars-item-lore-flame_stick [
+ <font:luckywars:lore_border>&+A_______________________++&++B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ОДНАЖДЫ НАРОД ОГНЯ    &++++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+РАЗВЯЗАЛ ВОЙНУ...        &++++++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+                       &++++++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ИСПОЛЬЗУЙ КОМБИНАЦИИ  &+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ЛКМ, ПКМ И ШИФТ        &++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ДЛЯ РАЗНЫХ ЗАКЛИНАНИЙ. &++++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C-----------------------++&++D
+]
+luckywars-item-fireball = <font:luckywars:name_usaly>&+[РАЗРЫВНОЙ ШАР&+]
+luckywars-item-lore-fireball [
+ <font:luckywars:lore_border>&+A___________________&+++++B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+КАК У ГАСТА, ТОЛЬКО&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ЧУТЬ МОЩНЕЕ.       &++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C-------------------&+++++D
+]
+luckywars-item-grapple_gun = <font:luckywars:name_rare>&+[АБОРДАЖНЫЙ КРЮК&+]
+luckywars-item-lore-grapple_gun [
+ <font:luckywars:lore_border>&+A____________&++++++B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+НА АБОРДАЖ!!!&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C------------&++++++D
+]
+luckywars-item-gravity_stick = <font:luckywars:name_rare>&+[ГРАВИТАЦИОННЫХ ЯДРОМЕТАТЕЛЬ&+]
+luckywars-item-lore-gravity_stick [
+ <font:luckywars:lore_border>&+A_______________________++&++B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+СНОС ПОД ФУНДАМЕНТ.    &++++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+НЕ ДОРОГО.             &+++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+                       &++++++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ИСПОЛЬЗУЙ КОМБИНАЦИИ  &+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ЛКМ, ПКМ И ШИФТ        &++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ДЛЯ РАЗНЫХ ЗАКЛИНАНИЙ. &++++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C-----------------------++&++D
+]
+luckywars-item-house = <font:luckywars:name_usaly>&+[ДОСТУПНОЕ ЖИЛЬЕ&+]
+luckywars-item-lore-house [
+ <font:luckywars:lore_border>&+A_______________________++&++B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ВАШ КВАРТИРНЫЙ ВОПРОС &+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+НИКОГДА НЕ БЫЛ ТАК    &++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+БЛИЗКО К РЕШЕНИЮ.      &++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C-----------------------++&++D
+]
+luckywars-item-ice_boots = <font:luckywars:name_rare>&+[КОНЬКИ&+]
+luckywars-item-lore-ice_boots [
+ <font:luckywars:lore_border>&+A________________________________&++B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+УНИКАЛЬНО-ТЕХНОЛОГИЧНАЯ ОБУВЬ   &++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+СО ВСТРОЕННЫМ СПИДОМЕТРОМ       +&++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+И РЕАКТИВНОЙ ХАРИЗМОЙ НОСИТЕЛЯ.  +&++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C--------------------------------&++D
+]
+luckywars-item-jetpack = <font:luckywars:name_rare>&+[РАКЕТНЫЙ НОСИТЕЛЬ&+]
+luckywars-item-lore-jetpack [
+ <font:luckywars:lore_border>&+A_______________________________&++++B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ЧЕРЕЗ ТЕРНИИ К ЗВЕЗДАМ.        &+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ОПАСНО ДЛЯ ЖИЗНИ, НЕ ПОВТОРЯТЬ! &+++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+КАК ИСПОЛЬЗОВАТЬ?              &++++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ВОЙДИТЕ В ПОЛЕТ АНАЛОГИЧНО     &+++++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ЭЛИТРАМ. ШИФТ - УСКОРЕНИЕ.      &++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C-------------------------------&++++D
+]
+luckywars-item-jumper = <font:luckywars:name_usaly>&+[ЖВАЧКА&+]
+luckywars-item-lore-jumper [
+ <font:luckywars:lore_border>&+A_______________________++&+B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ЧЕРЕЗ ТЕРНИИ К НЕБЕСАМ.&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C-----------------------++&+D
+]
+luckywars-item-kunai = <font:luckywars:name_usaly>&+[КУНАЙ&+]
+luckywars-item-lore-kunai [
+ <font:luckywars:lore_border>&+A_____________+&++B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+СТИЛЬ НИНДЗЯ.&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C-------------+&++D
+]
+luckywars-item-long_bow = <font:luckywars:name_rare>&+[ДЛИННЫЙ ЛУК&+]
+luckywars-item-lore-long_bow [
+ <font:luckywars:lore_border>&+A________________________+&+++B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ПО ЛБУ - СТУК.          &+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ДА ЕГО ЕЩЕ ИСПОЛЬЗОВАЛИ&+<font:luckywars:lore_border>0
+  <font:luckywars:lore_border>1+<font:luckywars:lore>&+ДОПОТОПНЫЕ СНАЙПЕРЫ!    &++++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C------------------------+&+++D
+]
+luckywars-item-millidos = <font:luckywars:name_rare>&+[МЕЧ МИЛЛИДОСА&+]
+luckywars-item-lore-millidos [
+ <font:luckywars:lore_border>&+A________________________________+&+++B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+БЕЗГРАНИЧНЫЙ СОСУД МОЩИ!        &++++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+СКОЛЬКО ПОЛУЧИЛ - СТОЛЬКО НАНЕС.&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C--------------------------------+&+++D
+]
+luckywars-item-pizza = <font:luckywars:name_usaly>&+[ПРЫГАЮЩАЯ ПИЦЦА&+]
+luckywars-item-lore-pizza [
+ <font:luckywars:lore_border>&+A_____________+___+&+++B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+САДИСЬ, ПОДВЕЗУ.&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C---------------+-+&+++D
+]
+luckywars-item-rocket_boots = <font:luckywars:name_rare>&+[КОСМИЧЕСКИЕ САПОГИ&+]
+luckywars-item-lore-rocket_boots [
+ <font:luckywars:lore_border>&+A________________________+_&+B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+МЫ ИХ СТЯНУЛИ С ОДНОГО   &+++++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+АСТРОНАВТА ПАРКУРИСТА    &+++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ДРУГОЙ ПЛАНЕТЫ. БЕДОЛАГА. &++++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+                         &+++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+НАЖМИ ШИФТ, НАХОДЯСЬ      &++++++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+В ВОЗДУХЕ.                &++++++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C-----------------------+--&+D
+]
+luckywars-item-rodent = <font:luckywars:name_usaly>&+[ЗУБАСТНЫЙ ПОГРЫЗУН&+]
+luckywars-item-lore-rodent [
+ <font:luckywars:lore_border>&+A____________________&+B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ОТКРЫВАЙ ПОШИРЕ РОТ, &++++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+В НЕГО ЛЕЗЕТ БЛОК.   &+++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C--------------------&+D
+]
+luckywars-item-snow_cannon = <font:luckywars:name_rare>&+[СНЕЖНАЯ ПУШКА&+]
+luckywars-item-lore-snow_cannon [
+ <font:luckywars:lore_border>&+A________________&++++B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ДА, ЭТИМ МОЖНО  &+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ДОСТАТЬ СОСЕДА. &++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C----------------&++++D
+]
+luckywars-item-star_stick = <font:luckywars:name_rare>&+[ЗВЕЗДНЫЙ СОЗЫВАТЕЛЬ&+]
+luckywars-item-lore-star_stick [
+ <font:luckywars:lore_border>&+A______________________&+++++B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ОБРУШЬ НА СВОИХ       &+++++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ВРАГОВ НЕБЕСНЫЙ ГНЕВ! &++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C----------------------&+++++D
+]
+luckywars-item-vulnerability_bow = <font:luckywars:name_rare>&+[ЛУК УЯЗВИМОСТИ&+]
+luckywars-item-lore-vulnerability_bow [
+ <font:luckywars:lore_border>&+A________________________&+++++B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ДОЛОЙ ЗАДЕРЖКУ НА УРОН, &+++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ОБРУШИМ ГРАД УДАРОВ!    &+++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C------------------------&+++++D
+]
+luckywars-item-vulnerability_sword = <font:luckywars:name_rare>&+[МЕЧ УЯЗВИМОСТИ&+]
+luckywars-item-lore-vulnerability_sword [
+ <font:luckywars:lore_border>&+A________________________&+++++B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ДОЛОЙ ЗАДЕРЖКУ НА УРОН, &+++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ОБРУШИМ ГРАД УДАРОВ!    &+++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C------------------------&+++++D
+]
+
+luckywars-object-ufo_warn = <yellow>⚠ Критическая высота! ⚠
+
+luckywars-game_queue-header = <shadow:#00000000><font:luckywars:icons>3.3.3.3.3.3.3
+luckywars-game_queue-find_players = <shadow:#00000000><white><font:luckywars:game_queue1>Набор игроков...
+luckywars-game_queue-creating_game = <shadow:#00000000><white><font:luckywars:game_queue1>Создание игры...
+
+luckywars-map-mushrooms-name = Ретро-грибы
+luckywars-map-abstract-name = Абстракцион
+
+luckywars-game-leave = <dark_gray>- $player
+luckywars-game-prepare = <yellow>Игра начнётся через <white>$time <yellow>секунд!
+luckywars-game-no_team-message = Помните, каждый сам за себя!
+luckywars-game-start = <#FFCF00><font:luckywars:icons>b<font:default> <yellow>Игра началась! <#FFCF00><font:luckywars:icons>b
+luckywars-game-start-subtitle = <red>Победитель только один!
+luckywars-game-no_players = <#f7f286>Недостаточно игроков для начала!
+luckywars-game-get_ready = <#ee9a62>... Приготовьтесь ...
+luckywars-game-barrier_event = <gold>⚠ Сужение зоны ⚠
+luckywars-game-barrier_event-message = <#f7f286>Барьер начал сужение к центру!
+luckywars-game-destroy_event = <#FF2200>⚠ Аннигиляция ⚠
+luckywars-game-destroy_event-message = <#f7f286>Аннигиляция! Выживет только один!
+
+luckywars-game-death = <white>$killer <yellow>$icon <red>$victim <#FF0000>☠
+luckywars-game-death-title = <#FF2200>☠ <red>Поражение <#FF2200>☠
+luckywars-game-death-subtitle = <#FFAA00>Вас убил $killer
+luckywars-game-victory = <#FFEF00><font:luckywars:icons>a<font:default> <yellow>Победа <#FFEF00><font:luckywars:icons>a
+luckywars-death-stats = Статистика: <yellow>$place <white>место, <red>$kills <white>убийств
+luckywars-top-top = <yellow>┌─ ʟᴜᴄᴋʏ ᴡᴀʀꜱ
+luckywars-top-element = <yellow>│<$color> #$place <white>$player [<red>$kills 🗡<white>]
+luckywars-top-bottom = <yellow>└────────────
+luckywars-killed_by = Вас убил {0}
+
+luckywars-tab-feet [
+ <white>
+ <gray> ─<font:s><tr:s.-1><font:default>─ <gold>TPS: <white>$tps <gold>Пинг: <white>$ping <gray>─<font:s><tr:s.-1><font:default>─
+ <white>
+]
+
+luckywars-commands-leave-fail = <red>Вы не в игре!
+luckywars-protocol_warning = <#f7f286>Рекомендуем играть на 1.21.8.
+
+luckywars-hub-transferFail = Извините, серверу не удалось переместить вас в хаб :(
+end

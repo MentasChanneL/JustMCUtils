@@ -1,0 +1,231 @@
+luckywars-item-luckyblock = <yellow>Lucky block
+luckywars-item-game_queue = <font:luckywars:name_rare>&+[JOIN IN GAME&+]
+luckywars-item-air_bridge = <font:luckywars:name_usaly>&+[MIGRATORY BRIDGE&+]
+luckywars-item-lore-air_bridge [
+ <font:luckywars:lore_border>&+A_____________________+++_&+B
+ <font:luckywars:lore_border>1<font:luckywars:lore>+&+A CONVENIENT BRIDGE IN&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1<font:luckywars:lore>+&+THE BLINK OF AN EYE.  &+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C---------------------+++-&+D
+]
+luckywars-item-boomerang = <font:luckywars:name_usaly>&+[BOOMERANG&+]
+luckywars-item-lore-boomerang [
+ <font:luckywars:lore_border>&+A_____________________________++&+B
+ <font:luckywars:lore_border>1<font:luckywars:lore>+&+YOUR FAITHFUL AND ONLY FRIEND&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C-----------------------------++&+D
+]
+luckywars-item-chilli = <font:luckywars:name_usaly>&+[CHILLI&+]
+luckywars-item-lore-chilli [
+ <font:luckywars:lore_border>&+A______________________________&+B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+THE TASTE CAN BE DESCRIBED AS  ++&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+A MAXICAN MACHO CHASING A HERD +&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+OF BUFFALO IN YOUR MOUTH.      &+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C------------------------------&+D
+]
+luckywars-item-tnt = <font:luckywars:name_usaly>&+[DYNAMITE&+]
+luckywars-item-lore-tnt [
+ <font:luckywars:lore_border>&+A_______________________++&++B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+EXPLOSIVE BUT VERSATILE&++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C-----------------------++&++D
+]
+luckywars-item-electric_stick = <font:luckywars:name_rare>&+[ЭЛЕКТРИЧЕСКИЙ ЗАКЛИНАТЕЛЬ&+]
+luckywars-item-lore-electric_stick [
+ <font:luckywars:lore_border>&+A________________________++&++B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+Я КАК ГРОМ СРЕДИ ЯСНОГО&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+НЕБА, ВСЕЛЯЮ ГРОЗНЫЙ    &+++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+УЖАС, НУ ИЛИ КАК-ТО ТАК. &++++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+                        &++++++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ИСПОЛЬЗУЙ КОМБИНАЦИИ   &+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ЛКМ, ПКМ И ШИФТ         &++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ДЛЯ РАЗНЫХ ЗАКЛИНАНИЙ.  &++++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C------------------------++&++D
+]
+luckywars-item-end_crystal = <font:luckywars:name_rare>&+[END CRYSTAL&+]
+luckywars-item-lore-end_crystal [
+ <font:luckywars:lore_border>&+A________&+++B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+INEDIBLE!&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C--------&+++D
+]
+luckywars-item-flame_stick = <font:luckywars:name_rare>&+[LORD OF FIRE&+]
+luckywars-item-lore-flame_stick [
+ <font:luckywars:lore_border>&+A_______________________++&++B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ONE DAY THE FIRE       &++++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+NATION STARTED A WAR...  &++++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+                       &++++++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+USE COMBINATIONS OF    &++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+LMB, RMB AND SHIFT      ++&++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+FOR DIFFERENT SPELLS.   &++++++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C-----------------------++&++D
+]
+luckywars-item-fireball = <font:luckywars:name_usaly>&+[EXPLOSIVE MASS&+]
+luckywars-item-lore-fireball [
+ <font:luckywars:lore_border>&+A__________________________&+++++B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+SLIGHTLY SALTY.            ++&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+DONT THROW IT AT PEOPLE IF&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+YOU DONT WANT THEM TO DIE. +&+++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C--------------------------&+++++D
+]
+luckywars-item-grapple_gun = <font:luckywars:name_rare>&+[GRAPPLE GUN&+]
+luckywars-item-lore-grapple_gun [
+ <font:luckywars:lore_border>&+A_______________&+++B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+BOARD THE SHIP!!!&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C---------------&+++D
+]
+luckywars-item-gravity_stick = <font:luckywars:name_rare>&+[LORD OF GRAVITY&+]
+luckywars-item-lore-gravity_stick [
+ <font:luckywars:lore_border>&+A_________________________++&+B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+DEMOLITION FOR FOUNDATION.&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+CHEAP.                   &+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+                         &+++++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+USE COMBINATIONS OF      &+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+LMB, RMB AND SHIFT        +&+++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+FOR DIFFERENT SPELLS.     +&+++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C-------------------------++&+D
+]
+luckywars-item-house = <font:luckywars:name_usaly>&+[AFFORDABLE HOUSING&+]
+luckywars-item-lore-house [
+ <font:luckywars:lore_border>&+A_____________________+&+B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+SAFE HOUSE ON THE    +&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+OUTSKIRTS OF THE CITY.&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ITS DEFINITELY SAFE.   ++&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C---------------------+&+D
+]
+luckywars-item-ice_boots = <font:luckywars:name_rare>&+[SKATES&+]
+luckywars-item-lore-ice_boots [
+ <font:luckywars:lore_border>&+A_______________________________++&+B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+UNIQUELY TECHNOLOGICAL FOOTWEAR&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+WITH A BUILT-IN SPEEDOMETER AND ++&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+THE WEARERS REACTIVE CHARISMA.  +&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C-------------------------------++&+D
+]
+luckywars-item-jetpack = <font:luckywars:name_rare>&+[JETPACK&+]
+luckywars-item-lore-jetpack [
+ <font:luckywars:lore_border>&+A______________________________&+B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+THROUGH THORNS TO THE STARS.   +&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+LIFE-THREATENING, DO NOT REPEAT!&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+HOW TO USE?                   &+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ENTER FLIGHT SIMILAR TO ELYTRA. +&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+SHIFT - ACCELERATION.           ++&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C------------------------------&+D
+]
+luckywars-item-jumper = <font:luckywars:name_usaly>&+[EXTRA TRAMPOLINE&+]
+luckywars-item-lore-jumper [
+ <font:luckywars:lore_border>&+A__________++&+B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+BOTTOM UP.&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C----------++&+D
+]
+luckywars-item-kunai = <font:luckywars:name_usaly>&+[KUNAI&+]
+luckywars-item-lore-kunai [
+ <font:luckywars:lore_border>&+A___________++_+&+B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+NINJA STYLE.&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C-----------++-+&+D
+]
+luckywars-item-long_bow = <font:luckywars:name_rare>&+[LONG BOW&+]
+luckywars-item-lore-long_bow [
+ <font:luckywars:lore_border>&+A__________________+&+B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+DESCRIPTION        ++&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+                  +&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+                  +&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+                  +&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+                  +&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+                  +&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+END OF DESCRIPTION.&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C------------------+&+D
+]
+luckywars-item-millidos = <font:luckywars:name_rare>&+[MILLIODAS SWORD&+]
+luckywars-item-lore-millidos [
+ <font:luckywars:lore_border>&+A___________________________+__+&+++B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+UNLIMITED VESSEL OF POWER!    ++&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+AS MUCH RECEIVE, SO MUCH GIVE.&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C----------------------------+-+&+++D
+]
+luckywars-item-pizza = <font:luckywars:name_usaly>&+[UNSTOPPABLE PIZZA&+]
+luckywars-item-lore-pizza [
+ <font:luckywars:lore_border>&+A_________+___+&+B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ITALIAN TAXI.&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C-----------+-+&+D
+]
+luckywars-item-rocket_boots = <font:luckywars:name_rare>&+[SPACE BOOTS&+]
+luckywars-item-lore-rocket_boots [
+ <font:luckywars:lore_border>&+A________________++_&+B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+FOR MOON JUMPS.  &+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+                 ++&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+PRESS SHIFT WHILE&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+IN THE AIR.       +&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C---------------++--&+D
+]
+luckywars-item-rodent = <font:luckywars:name_usaly>&+[TOOTHY PEST&+]
+luckywars-item-lore-rodent [
+ <font:luckywars:lore_border>&+A_________________________+__&++B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+WILL BITE EVERYTHING IT SEES.&++++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C-------------------------+--&++D
+]
+luckywars-item-snow_cannon = <font:luckywars:name_rare>&+[SNOWBALL GUN&+]
+luckywars-item-lore-snow_cannon [
+ <font:luckywars:lore_border>&+A_________________________++_&+B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+YES, YOU CAN GET ON YOUR  &+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+NEIGHBORS NERVES WITH THIS.&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C-------------------------++-&+D
+]
+luckywars-item-star_stick = <font:luckywars:name_rare>&+[LORD OF SKY&+]
+luckywars-item-lore-star_stick [
+ <font:luckywars:lore_border>&+A______________________&+B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+LOOK! A STAR IS FALLING,&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+MAKE A WISH!           &+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C----------------------&+D
+]
+luckywars-item-vulnerability_bow = <font:luckywars:name_rare>&+[VULNERABILITY BOW&+]
+luckywars-item-lore-vulnerability_bow [
+ <font:luckywars:lore_border>&+A________________________&+++++B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+THE DAMAGE WINDOW IS ALL&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+OPEN FOR YOU, WELCOME!  + &+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C------------------------&+++++D
+]
+luckywars-item-vulnerability_sword = <font:luckywars:name_rare>&+[VULNERABILITY SWORD&+]
+luckywars-item-lore-vulnerability_sword [
+ <font:luckywars:lore_border>&+A________________________&+++++B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+THE DAMAGE WINDOW IS ALL&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+OPEN FOR YOU, WELCOME!  + &+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C------------------------&+++++D
+]
+
+luckywars-object-ufo_warn = <yellow>⚠ Critical height! ⚠
+
+luckywars-game_queue-header = <shadow:#00000000><font:luckywars:icons>3.3.3.3.3.3.3
+luckywars-game_queue-find_players = <shadow:#00000000><white><font:luckywars:game_queue1>Waiting a players...
+luckywars-game_queue-creating_game = <shadow:#00000000><white><font:luckywars:game_queue1>Game creation...
+
+luckywars-map-mushrooms-name = Retro mushrooms
+luckywars-map-abstract-name = Absttraction
+
+luckywars-game-leave = <dark_gray>- $player
+luckywars-game-prepare = <yellow>The game will start in <white>$time <yellow>seconds!
+luckywars-game-no_team-message = Remember, every man for himself!
+luckywars-game-start = <#FFCF00><font:luckywars:icons>b<font:default> <yellow>The game has begun! <#FFCF00><font:luckywars:icons>b
+luckywars-game-start-subtitle = <red>There is only one winner!
+luckywars-game-no_players = <#f7f286>Not enough players to start!
+luckywars-game-get_ready = <#ee9a62>... Get ready ...
+luckywars-game-barrier_event = <gold>⚠ Barrier event ⚠
+luckywars-game-barrier_event-message = <#f7f286>The barrier began to shrink!
+luckywars-game-destroy_event = <#FF2200>⚠ Annihilation ⚠
+luckywars-game-destroy_event-message = <#f7f286>Annihilation! Only one will survive!
+
+luckywars-game-death = <white>$killer <yellow>$icon <red>$victim <#FF0000>☠
+luckywars-game-death-title = <#FF2200>☠ <red>Defeat <#FF2200>☠
+luckywars-game-death-subtitle = <#FFAA00>You were killed by $killer
+luckywars-game-victory = <#FFEF00><font:luckywars:icons>a<font:default> <yellow>Victory <#FFEF00><font:luckywars:icons>a
+luckywars-death-stats = Stats: <yellow>$placest <white>place, <red>$kills <white>kills
+luckywars-top-top = <yellow>┌─ ʟᴜᴄᴋʏ ᴡᴀʀꜱ
+luckywars-top-element = <yellow>│<$color> #$placest <white>$player [<red>$kills 🗡<white>]
+luckywars-top-bottom = <yellow>└────────────
+
+luckywars-tab-feet [
+ <white>
+ <gray> ─<font:s><tr:s.-1><font:default>─ <gold>TPS: <white>$tps <gold>Ping: <white>$ping <gray>─<font:s><tr:s.-1><font:default>─
+ <white>
+]
+
+luckywars-commands-leave-fail = <red>You are not in the game!
+luckywars-protocol_warning = <#f7f286>We recommend playing on 1.21.8.
+
+luckywars-hub-transferFail = :(
+end
