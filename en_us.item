@@ -227,5 +227,5 @@ luckywars-tab-feet [
 luckywars-commands-leave-fail = <red>You are not in the game!
 luckywars-protocol_warning = <#f7f286>We recommend playing on 1.21.8.
 
-luckywars-hub-transferFail = :(
+luckywars-platform-item-profile = <font:luckywars:name_usaly>&+[PROFILE&+]
 end
