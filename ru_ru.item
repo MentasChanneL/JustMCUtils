@@ -196,6 +196,7 @@ luckywars-game_queue-creating_game = <shadow:#00000000><white><font:luckywars:ga
 luckywars-map-mushrooms-name = Ретро-грибы
 luckywars-map-abstract-name = Абстракцион
 
+luckywars-game-join = <gray>+ $player
 luckywars-game-leave = <dark_gray>- $player
 luckywars-game-prepare = <yellow>Игра начнётся через <white>$time <yellow>секунд!
 luckywars-game-no_team-message = Помните, каждый сам за себя!

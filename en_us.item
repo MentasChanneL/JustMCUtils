@@ -197,6 +197,7 @@ luckywars-game_queue-creating_game = <shadow:#00000000><white><font:luckywars:ga
 luckywars-map-mushrooms-name = Retro mushrooms
 luckywars-map-abstract-name = Absttraction
 
+luckywars-game-join = <gray>+ $player
 luckywars-game-leave = <dark_gray>- $player
 luckywars-game-prepare = <yellow>The game will start in <white>$time <yellow>seconds!
 luckywars-game-no_team-message = Remember, every man for himself!
