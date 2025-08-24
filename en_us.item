@@ -224,7 +224,7 @@ luckywars-tab-feet [
  <white>
 ]
 
-luckywars-commands-cd = <red>Please wait a moment before using.
+luckywars-commands-cd = <red>Please wait a moment.
 luckywars-commands-leave-fail = <red>You are not in the game!
 luckywars-commands-play-fail = <red>You already in game!
 luckywars-protocol_warning = <#f7f286>We recommend playing on 1.21.8.

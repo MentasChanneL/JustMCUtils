@@ -223,7 +223,7 @@ luckywars-tab-feet [
  <white>
 ]
 
-luckywars-commands-cd = <#f7f286>Пожалуйста, немного подождите перед использованием.
+luckywars-commands-cd = <#f7f286>Пожалуйста, немного подождите.
 luckywars-commands-leave-fail = <red>Вы не в игре!
 luckywars-commands-play-fail = <red>Вы уже в игре!
 luckywars-protocol_warning = <#f7f286>Рекомендуем играть на 1.21.8.
