@@ -229,6 +229,7 @@ luckywars-commands-cd = <red>Please wait a moment.
 luckywars-commands-leave-fail = <red>You are not in the game!
 luckywars-commands-play-fail = <red>You already in game!
 luckywars-protocol_warning = <#f7f286>We recommend playing on 1.21.8.
+luckywars-resourcepack-kick-meesage = <red>On the Lucky Wars server, a resource pack is required to play. If you are kicked immediately after entering, open the server settings in the server menu and change the "Resource Packs" parameter to "Allowed".
 
-luckywars-platform-item-profile = <font:luckywars:name_usaly>&+[PROFILE&+]
+luckywars-item-platform_profile = <font:luckywars:name_usaly>&+[PROFILE&+]
 end
