@@ -1,5 +1,5 @@
 luckywars-item-luckyblock = <yellow>Lucky block
-luckywars-item-game_queue = <font:luckywars:name_rare>&+[JOIN IN GAME&+]
+luckywars-item-game_queue = <font:luckywars:name_rare>&+[JOIN GAME&+]
 luckywars-item-air_bridge = <font:luckywars:name_usaly>&+[MIGRATORY BRIDGE&+]
 luckywars-item-lore-air_bridge [
  <font:luckywars:lore_border>&+A_____________________+++_&+B
@@ -239,5 +239,7 @@ luckywars-version-kick-message [
     <red>On the Lucky Wars server you can play only from versions 1.21 - 1.21.8!
     <red>
 ]
+luckywars-item-info_book = <red>Why can't I play?
+
 luckywars-item-platform_profile = <font:luckywars:name_usaly>&+[PROFILE&+]
 end

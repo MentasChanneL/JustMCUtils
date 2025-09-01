@@ -238,6 +238,7 @@ luckywars-version-kick-message [
     <red>На сервере Lucky Wars можно играть только с версий 1.21 - 1.21.8!
     <red>
 ]
+luckywars-item-info_book = <red>Почему я не могу поиграть?
 
 luckywars-item-platform_profile = <font:luckywars:name_usaly>&+[ПРОФИЛЬ&+]
 end
