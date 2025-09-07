@@ -224,6 +224,10 @@ luckywars-tab-feet [
  <white>
 ]
 
+luckywars-stats_board-stat-kills-title = <font:luckywars:gui>&+[ТОП ПО УБИЙСТВАМ&+]
+luckywars-stats_board-stat-victories-title = <font:luckywars:gui>&+[ТОП ПО ПОБЕДАМ&+]
+
+luckywars-stats-kills = <yellow>⌚<white> Время игры: <yellow>${value} <white>часов
 luckywars-stats-play_time = <yellow>⌚<white> Время игры: <yellow>${value} <white>часов
 
 luckywars-commands-cd = <#f7f286>Пожалуйста, немного подождите.
