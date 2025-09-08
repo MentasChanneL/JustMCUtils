@@ -224,11 +224,19 @@ luckywars-tab-feet [
  <white>
 ]
 
-luckywars-stats_board-stat-kills-title = <font:luckywars:gui>&+[ТОП ПО УБИЙСТВАМ&+]
-luckywars-stats_board-stat-victories-title = <font:luckywars:gui>&+[ТОП ПО ПОБЕДАМ&+]
+luckywars-stats_board-stat-games-title = <font:luckywars:gui>&+[ВЕТЕРАНЫ ПО ИГРАМ&+]
+luckywars-stats_board-stat-frog_trades-title = <font:luckywars:gui>&+[ЛИДЕРЫ ЖАБЬИХ СДЕЛОК&+]
+luckywars-stats_board-stat-lucky_blocks-title = <font:luckywars:gui>&+[ОТКРЫЛИ ЛАКИ БЛОКОВ&+]
+luckywars-stats_board-stat-kills-title = <font:luckywars:gui>&+[САМЫЕ ОТЪЯВЛЕННЫЕ УБИЙЦЫ&+]
+luckywars-stats_board-stat-victories-title = <font:luckywars:gui>&+[ЛИДЕРЫ ПО ПОБЕДАМ&+]
 
-luckywars-stats-kills = <yellow>⌚<white> Время игры: <yellow>${value} <white>часов
-luckywars-stats-play_time = <yellow>⌚<white> Время игры: <yellow>${value} <white>часов
+luckywars-stats_menu-play_time = <yellow>⌚<white> Время игры: <yellow>${value} <white>часов
+luckywars-stats_menu-games = <yellow>⚐<white> Количество игр: <yellow>${value}
+luckywars-stats_menu-victories = <yellow>★<white> Победы: <yellow>${value}
+luckywars-stats_menu-kills = <yellow>🗡<white> Убито игроков: <yellow>${value}
+luckywars-stats_menu-deaths = <yellow>☠<white> Смерти: <yellow>${value}
+luckywars-stats_menu-lucky_blocks = <yellow>⚃<white> Открыто Лаки блоков: <yellow>${value}
+luckywars-stats_menu-frog_trades = <yellow>🍖<white> Сделок с жабой: <yellow>${value}
 
 luckywars-commands-cd = <#f7f286>Пожалуйста, немного подождите.
 luckywars-commands-leave-fail = <red>Вы не в игре!

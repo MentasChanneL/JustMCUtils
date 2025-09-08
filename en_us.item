@@ -225,6 +225,20 @@ luckywars-tab-feet [
  <white>
 ]
 
+luckywars-stats_board-stat-games-title = <font:luckywars:gui>&+[GAME VETERANS&+]
+luckywars-stats_board-stat-frog_trades-title = <font:luckywars:gui>&+[THE TOAD TRADE LEADERS&+]
+luckywars-stats_board-stat-lucky_blocks-title = <font:luckywars:gui>&+[LUCKY BLOCKS OPENED&+]
+luckywars-stats_board-stat-kills-title = <font:luckywars:gui>&+[KILLERS LEADERBOARD&+]
+luckywars-stats_board-stat-victories-title = <font:luckywars:gui>&+[WINS LEADERBOARD&+]
+
+luckywars-stats_menu-play_time = <yellow>⌚<white> Play Time: <yellow>${value} <white>hours
+luckywars-stats_menu-games = <yellow>⚐<white> Games: <yellow>${value}
+luckywars-stats_menu-victories = <yellow>★<white> Victories: <yellow>${value}
+luckywars-stats_menu-kills = <yellow>🗡<white> Players Killed: <yellow>${value}
+luckywars-stats_menu-deaths = <yellow>☠<white> Deaths: <yellow>${value}
+luckywars-stats_menu-lucky_blocks = <yellow>⚃<white> Lucky Blocks Opened: <yellow>${value}
+luckywars-stats_menu-frog_trades = <yellow>🍖<white> Toad trades: <yellow>${value}
+
 luckywars-commands-cd = <red>Please wait a moment.
 luckywars-commands-leave-fail = <red>You are not in the game!
 luckywars-commands-play-fail = <red>You already in game!
