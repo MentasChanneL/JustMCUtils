@@ -231,6 +231,8 @@ luckywars-stats_board-stat-lucky_blocks-title = <font:luckywars:gui>&+[LUCKY BLO
 luckywars-stats_board-stat-kills-title = <font:luckywars:gui>&+[KILLERS LEADERBOARD&+]
 luckywars-stats_board-stat-victories-title = <font:luckywars:gui>&+[WINS LEADERBOARD&+]
 
+luckywars-command-please_wait = <#FFD596>⌚ Please wait a moment...
+
 luckywars-stats_command_header = <#AAAAFF>┌ ☷ <#C6FFF5>My statistics ⏷
 luckywars-stats_command-play_time = <#AAAAFF>│ ⌚<#C6FFF5> Play Time: <#AAAAFF>${value} <#C6FFF5>часов
 luckywars-stats_command-games = <#AAAAFF>│ ⚐<#C6FFF5> Games: <#AAAAFF>${value}
