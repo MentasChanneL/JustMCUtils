@@ -230,13 +230,15 @@ luckywars-stats_board-stat-lucky_blocks-title = <font:luckywars:gui>&+[ОТКР�
 luckywars-stats_board-stat-kills-title = <font:luckywars:gui>&+[САМЫЕ ОТЪЯВЛЕННЫЕ УБИЙЦЫ&+]
 luckywars-stats_board-stat-victories-title = <font:luckywars:gui>&+[ЛИДЕРЫ ПО ПОБЕДАМ&+]
 
-luckywars-stats_menu-play_time = <yellow>⌚<white> Время игры: <yellow>${value} <white>часов
-luckywars-stats_menu-games = <yellow>⚐<white> Количество игр: <yellow>${value}
-luckywars-stats_menu-victories = <yellow>★<white> Победы: <yellow>${value}
-luckywars-stats_menu-kills = <yellow>🗡<white> Убито игроков: <yellow>${value}
-luckywars-stats_menu-deaths = <yellow>☠<white> Смерти: <yellow>${value}
-luckywars-stats_menu-lucky_blocks = <yellow>⚃<white> Открыто Лаки блоков: <yellow>${value}
-luckywars-stats_menu-frog_trades = <yellow>🍖<white> Сделок с жабой: <yellow>${value}
+luckywars-stats_command_header = <#AAAAFF>┌ ☷ <#C6FFF5>Статистика ⏷
+luckywars-stats_command-play_time = <#AAAAFF>│ ⌚<#C6FFF5> Время игры: <#AAAAFF>${value} <#C6FFF5>часов
+luckywars-stats_command-games = <#AAAAFF>│ ⚐<#C6FFF5> Количество игр: <#AAAAFF>${value}
+luckywars-stats_command-victories = <#AAAAFF>│ ★<#C6FFF5> Победы: <#AAAAFF>${value}
+luckywars-stats_command-kills = <#AAAAFF>│ 🗡<#C6FFF5> Убито игроков: <#AAAAFF>${value}
+luckywars-stats_command-deaths = <#AAAAFF>│ ☠<#C6FFF5> Смерти: <#AAAAFF>${value}
+luckywars-stats_command-lucky_blocks = <#AAAAFF>│ ⚃<#C6FFF5> Открыто Лаки блоков: <#AAAAFF>${value}
+luckywars-stats_command-frog_trades = <#AAAAFF>│ 🍖<#C6FFF5> Сделок с жабой: <#AAAAFF>${value}
+luckywars-stats_command_footer = <#AAAAFF>└─────────────
 
 luckywars-commands-cd = <#f7f286>Пожалуйста, немного подождите.
 luckywars-commands-leave-fail = <red>Вы не в игре!
