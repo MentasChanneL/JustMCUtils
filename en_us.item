@@ -234,13 +234,13 @@ luckywars-stats_board-stat-victories-title = <font:luckywars:gui>&+[WINS LEADERB
 luckywars-command-please_wait = <#FFD596>⌚ Please wait a moment...
 
 luckywars-stats_command_header = <#AAAAFF>┌ ☷ <#C6FFF5>My statistics ⏷
-luckywars-stats_command-play_time = <#AAAAFF>│ ⌚<#C6FFF5> Play Time: <#AAAAFF>${value} <#C6FFF5>часов
-luckywars-stats_command-games = <#AAAAFF>│ ⚐<#C6FFF5> Games: <#AAAAFF>${value}
-luckywars-stats_command-victories = <#AAAAFF>│ ★<#C6FFF5> Victories: <#AAAAFF>${value}
-luckywars-stats_command-kills = <#AAAAFF>│ 🗡<#C6FFF5> Kills: <#AAAAFF>${value}
-luckywars-stats_command-deaths = <#AAAAFF>│ ☠<#C6FFF5> Deaths: <#AAAAFF>${value}
-luckywars-stats_command-lucky_blocks = <#AAAAFF>│ ⚃<#C6FFF5> Lucky Block Opened: <#AAAAFF>${value}
-luckywars-stats_command-frog_trades = <#AAAAFF>│ 🍖<#C6FFF5> Toad trades: <#AAAAFF>${value}
+luckywars-stats_command-play_time = <#AAAAFF>│ ⌚<#C6FFF5> Play Time: <#AAAAFF>$value <#C6FFF5>часов
+luckywars-stats_command-games = <#AAAAFF>│ ⚐<#C6FFF5> Games: <#AAAAFF>$value
+luckywars-stats_command-victories = <#AAAAFF>│ ★<#C6FFF5> Victories: <#AAAAFF>$value
+luckywars-stats_command-kills = <#AAAAFF>│ 🗡<#C6FFF5> Kills: <#AAAAFF>$value
+luckywars-stats_command-deaths = <#AAAAFF>│ ☠<#C6FFF5> Deaths: <#AAAAFF>$value
+luckywars-stats_command-lucky_blocks = <#AAAAFF>│ ⚃<#C6FFF5> Lucky Block Opened: <#AAAAFF>$value
+luckywars-stats_command-frog_trades = <#AAAAFF>│ 🍖<#C6FFF5> Toad trades: <#AAAAFF>$value
 luckywars-stats_command_footer = <#AAAAFF>└─────────────
 
 luckywars-commands-cd = <red>Please wait a moment.
