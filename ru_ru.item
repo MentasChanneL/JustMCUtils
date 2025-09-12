@@ -244,8 +244,8 @@ luckywars-stats_command_footer = <#AAAAFF>└───────────�
 
 luckywars-achievement-progress = <gold>☑ Прогресс: <yellow>$progress
 luckywars-achievement-reward = <gold><bold>Награды: <yellow>+$balance монет <green>+$experience xp
-luckywars-achievement-completed = <green><bold>✔ ПОЛУЧЕНО
-luckywars-achievement-not_completed = <dark_gray><bold>❌ НЕ ПОЛУЧЕНО
+luckywars-achievement-completed = <green>✔<bold> ПОЛУЧЕНО
+luckywars-achievement-not_completed = <dark_gray>❌<bold> НЕ ПОЛУЧЕНО
 luckywars-achievement-completed_message = <green>✔ Вы выполнили достижение "$name"!
 luckywars-achievement-find_lucky_blocks-name = Не случайная находка
 luckywars-achievement-find_lucky_blocks-title = <font:luckywars:name_legend>&+[НЕ СЛУЧАЙНАЯ НАХОДКА&+]
