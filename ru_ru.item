@@ -246,12 +246,15 @@ luckywars-achievement-progress = <gold>☑ Прогресс: <yellow>$progress
 luckywars-achievement-reward = <gold><bold>Награды: <yellow>+$balance монет <green>+$experience xp
 luckywars-achievement-completed = <green><bold>✔ ПОЛУЧЕНО
 luckywars-achievement-not_completed = <dark_gray><bold>❌ НЕ ПОЛУЧЕНО
+luckywars-achievement-completed_message = <green>✔ Вы выполнили достижение "$name"!
+luckywars-achievement-find_lucky_blocks-name = Не случайная находка
 luckywars-achievement-find_lucky_blocks-title = <font:luckywars:name_legend>&+[НЕ СЛУЧАЙНАЯ НАХОДКА&+]
 luckywars-achievement-find_lucky_blocks-lore = [
     <white>
     <white> Найдите 20 Лаки Блоков на спавне.
     <white>
 ]
+luckywars-achievement-find_lucky_blocks-message = <yellow>⚃ Найдено Лаки Блоков: <white>$count/20
 
 luckywars-commands-cd = <#f7f286>Пожалуйста, немного подождите.
 luckywars-commands-leave-fail = <red>Вы не в игре!
