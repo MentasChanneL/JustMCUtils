@@ -226,7 +226,7 @@ luckywars-tab-feet [
 ]
 
 luckywars-stats_board-stat-games-title = <font:luckywars:gui>&+[GAME VETERANS&+]
-luckywars-stats_board-stat-frog_trades-title = <font:luckywars:gui>&+[THE TOAD TRADE LEADERS&+]
+luckywars-stats_board-stat-toad_trades-title = <font:luckywars:gui>&+[THE TOAD TRADE LEADERS&+]
 luckywars-stats_board-stat-lucky_blocks-title = <font:luckywars:gui>&+[LUCKY BLOCKS OPENED&+]
 luckywars-stats_board-stat-kills-title = <font:luckywars:gui>&+[KILLERS LEADERBOARD&+]
 luckywars-stats_board-stat-victories-title = <font:luckywars:gui>&+[WINS LEADERBOARD&+]
@@ -240,7 +240,7 @@ luckywars-stats_command-victories = <#AAAAFF>│ ★<#C6FFF5> Victories: <#AAAAF
 luckywars-stats_command-kills = <#AAAAFF>│ 🗡<#C6FFF5> Kills: <#AAAAFF>$value
 luckywars-stats_command-deaths = <#AAAAFF>│ ☠<#C6FFF5> Deaths: <#AAAAFF>$value
 luckywars-stats_command-lucky_blocks = <#AAAAFF>│ ⚃<#C6FFF5> Lucky Block Opened: <#AAAAFF>$value
-luckywars-stats_command-frog_trades = <#AAAAFF>│ 🍖<#C6FFF5> Toad trades: <#AAAAFF>$value
+luckywars-stats_command-toad_trades = <#AAAAFF>│ 🍖<#C6FFF5> Toad trades: <#AAAAFF>$value
 luckywars-stats_command_footer = <#AAAAFF>└─────────────
 
 luckywars-commands-cd = <red>Please wait a moment.

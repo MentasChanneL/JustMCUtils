@@ -225,7 +225,7 @@ luckywars-tab-feet [
 ]
 
 luckywars-stats_board-stat-games-title = <font:luckywars:gui>&+[ВЕТЕРАНЫ ПО ИГРАМ&+]
-luckywars-stats_board-stat-frog_trades-title = <font:luckywars:gui>&+[ЛИДЕРЫ ЖАБЬИХ СДЕЛОК&+]
+luckywars-stats_board-stat-toad_trades-title = <font:luckywars:gui>&+[ЛИДЕРЫ ЖАБЬИХ СДЕЛОК&+]
 luckywars-stats_board-stat-lucky_blocks-title = <font:luckywars:gui>&+[ОТКРЫЛИ ЛАКИ БЛОКОВ&+]
 luckywars-stats_board-stat-kills-title = <font:luckywars:gui>&+[САМЫЕ ОТЪЯВЛЕННЫЕ УБИЙЦЫ&+]
 luckywars-stats_board-stat-victories-title = <font:luckywars:gui>&+[ЛИДЕРЫ ПО ПОБЕДАМ&+]
@@ -239,7 +239,7 @@ luckywars-stats_command-victories = <#AAAAFF>│ ★<#C6FFF5> Победы: <#AA
 luckywars-stats_command-kills = <#AAAAFF>│ 🗡<#C6FFF5> Убито игроков: <#AAAAFF>$value
 luckywars-stats_command-deaths = <#AAAAFF>│ ☠<#C6FFF5> Смерти: <#AAAAFF>$value
 luckywars-stats_command-lucky_blocks = <#AAAAFF>│ ⚃<#C6FFF5> Открыто Лаки блоков: <#AAAAFF>$value
-luckywars-stats_command-frog_trades = <#AAAAFF>│ 🍖<#C6FFF5> Сделок с жабой: <#AAAAFF>$value
+luckywars-stats_command-toad_trades = <#AAAAFF>│ 🍖<#C6FFF5> Сделок с жабой: <#AAAAFF>$value
 luckywars-stats_command_footer = <#AAAAFF>└─────────────
 
 luckywars-commands-cd = <#f7f286>Пожалуйста, немного подождите.
