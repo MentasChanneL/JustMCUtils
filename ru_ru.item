@@ -242,6 +242,17 @@ luckywars-stats_command-lucky_blocks = <#AAAAFF>│ ⚃<#C6FFF5> Открыто 
 luckywars-stats_command-toad_trades = <#AAAAFF>│ 🍖<#C6FFF5> Сделок с жабой: <#AAAAFF>$value
 luckywars-stats_command_footer = <#AAAAFF>└─────────────
 
+luckywars-achievement-progress = <gold>☑ Прогресс: <yellow>$progress
+luckywars-achievement-reward = <gold><bold>Награды: <yellow>+$balance монет <green>+$experience xp
+luckywars-achievement-completed = <green><bold>✔ ПОЛУЧЕНО
+luckywars-achievement-not_completed = <dark_gray><bold>❌ НЕ ПОЛУЧЕНО
+luckywars-achievement-find_lucky_blocks-title = <font:luckywars:name_legend>&+[НЕ СЛУЧАЙНАЯ НАХОДКА&+]
+luckywars-achievement-find_lucky_blocks-lore = [
+    <white>
+    <white> Найдите 20 Лаки Блоков на спавне.
+    <white>
+]
+
 luckywars-commands-cd = <#f7f286>Пожалуйста, немного подождите.
 luckywars-commands-leave-fail = <red>Вы не в игре!
 luckywars-commands-play-fail = <red>Вы уже в игре!
@@ -257,9 +268,10 @@ luckywars-version-kick-message [
     <red>
 ]
 luckywars-item-info_book = <red>Почему я не могу поиграть?
-
+luckywars-item-achievements = <font:luckywars:name_rare>&+[ДОСТИЖЕНИЯ&+]
 luckywars-item-platform_profile = <font:luckywars:name_usaly>&+[ПРОФИЛЬ&+]
 
+luckywars-gui-achievements-title = <font:luckywars:gui>_0______&+[ДОСТИЖЕНИЯ&+]
 luckywars-gui-trader_main-title = <font:luckywars:gui>_0______&+[ТОВАРЫ&+]
 luckywars-gui-trader_main-category-cases = Категория: Кейсы
 luckywars-gui-trader_main-category-transaction = Категория: Обмен валют
