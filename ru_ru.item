@@ -243,7 +243,7 @@ luckywars-stats_command-toad_trades = <#AAAAFF>│ 🍖<#C6FFF5> Сделок с
 luckywars-stats_command_footer = <#AAAAFF>└─────────────
 
 luckywars-achievement-progress = <gold>☑ Прогресс: <yellow>$progress
-luckywars-achievement-reward = <#FFEF00><font:luckywars:icons>a<font:default> <gold><bold>Награды: <yellow>+$balance <#FFEF00><font:luckywars:icons>h <font:default><green>+$experience xp
+luckywars-achievement-reward = <#FFEF00><font:luckywars:icons>a<font:default> <gold>Награды: <#FFEF00>+$balance <font:luckywars:icons>h<font:default> <green>+$experience xp
 luckywars-achievement-completed = <green>✔<bold> ПОЛУЧЕНО
 luckywars-achievement-not_completed = <dark_gray>❌<bold> НЕ ПОЛУЧЕНО
 luckywars-achievement-completed_message = <green>✔ Вы выполнили достижение "$name"!
