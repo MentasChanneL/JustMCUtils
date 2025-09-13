@@ -259,7 +259,7 @@ luckywars-achievement-find_lucky_blocks-lore [
     <white>∙ Найдите <yellow>20<white> Лаки Блоков на спавне.
     <white>
 ]
-luckywars-achievement-fishing_players-message = <yellow>⚃ Найдено Лаки Блоков: <white>$count/20
+luckywars-achievement-find_lucky_blocks-message = <yellow>⚃ Найдено Лаки Блоков: <white>$count/20
 
 luckywars-achievement-fishing_players-name = <yellow>Везучий рыбак
 luckywars-achievement-fishing_players-title = <font:luckywars:name_legend>&+[ВЕЗУЧИЙ РЫБАК&+]
