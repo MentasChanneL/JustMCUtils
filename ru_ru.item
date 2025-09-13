@@ -251,7 +251,7 @@ luckywars-achievement-find_lucky_blocks-name = <yellow>Не случайная �
 luckywars-achievement-find_lucky_blocks-title = <font:luckywars:name_legend>&+[НЕ СЛУЧАЙНАЯ НАХОДКА&+]
 luckywars-achievement-find_lucky_blocks-lore [
     <white>
-    <white>Найдите 20 Лаки Блоков на спавне.
+    <white>∙ Найдите <yellow>20<white> Лаки Блоков на спавне.
     <white>
 ]
 luckywars-achievement-find_lucky_blocks-toast-lore = Найдите 20 Лаки Блоков на спавне.
