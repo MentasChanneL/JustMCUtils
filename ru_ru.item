@@ -269,6 +269,49 @@ luckywars-achievement-fishing_players-lore [
     <white>
 ]
 
+luckywars-achievement-toad_trades-name = <yellow>Предприниматель
+luckywars-achievement-toad_trades-title = <font:luckywars:name_legend>&+[ПРЕДПРИНИМАТЕЛЬ&+]
+luckywars-achievement-toad_trades-lore [
+    <white>
+    <white>∙ Совершите <yellow>10<white> обменов с жабой.
+    <white>
+]
+
+luckywars-achievement-cold_revenge-name = <yellow>Холодная месть
+luckywars-achievement-cold_revenge-title = <font:luckywars:name_legend>&+[ХОЛОДНАЯ МЕСТЬ&+]
+luckywars-achievement-cold_revenge-lore [
+    <white>
+    <white>∙ Убейте Злого снеговика из <yellow>Снежной пушки<white>.
+    <white>
+]
+
+luckywars-achievement-boomerang_thief-name = <yellow>Удачный бросок
+luckywars-achievement-boomerang_thief-title = <font:luckywars:name_legend>&+[УДАЧНЫЙ БРОСОК&+]
+luckywars-achievement-boomerang_thief-lore [
+    <white>
+    <white>∙ Украдите с помощью бумеранга
+    <yellow>  10<white> Лаки Блоков из под носа игроков.
+    <white>
+]
+
+luckywars-achievement-jackpot-name = <yellow>Фортуна
+luckywars-achievement-jackpot-title = <font:luckywars:name_legend>&+[ФОРТУНА&+]
+luckywars-achievement-jackpot-lore [
+    <white>
+    <white>∙ Выбейте джекпот в <yellow>Игровом автомате...
+    <white>  И ужаснитесь...
+    <white>
+]
+
+luckywars-achievement-sapper-name = <yellow>Смекалистый сапер
+luckywars-achievement-sapper-title = <font:luckywars:name_legend>&+[СМЕКАЛИСТЫЙ САПЕР&+]
+luckywars-achievement-sapper-lore [
+    <white>
+    <white>∙ Обезвредьте <yellow>Сундук ловушку
+    <white>  и заберите награду.
+    <white>
+]
+
 luckywars-commands-cd = <#f7f286>Пожалуйста, немного подождите.
 luckywars-commands-leave-fail = <red>Вы не в игре!
 luckywars-commands-play-fail = <red>Вы уже в игре!
