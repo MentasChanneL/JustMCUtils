@@ -243,7 +243,7 @@ luckywars-stats_command-toad_trades = <#AAAAFF>│ 🍖<#C6FFF5> Сделок с
 luckywars-stats_command_footer = <#AAAAFF>└─────────────
 
 luckywars-achievement-progress = <#FFEF00>☑ <gold>Прогресс: <yellow>$progress
-luckywars-achievement-reward = <#FFEF00><font:luckywars:icons>a<font:default> <gold>Награды: <#FFEF00>+$balance<font:s><tr:s.2><font:luckywars:icons>h<font:default>  <green>+$experience<font:s><tr:s.2><font:default>xp
+luckywars-achievement-reward = <#FFEF00><font:luckywars:icons>a<font:default> <gold>Награды: <#FFEF00>+$balance<font:s><tr:s.2><font:luckywars:icons>h<font:default> <green>+$experience<font:s><tr:s.2><font:default>xp
 luckywars-achievement-completed = <green>✔<bold> ПОЛУЧЕНО
 luckywars-achievement-not_completed = <dark_gray>❌<bold> НЕ ПОЛУЧЕНО
 luckywars-achievement-completed_message = <green>✔ Вы выполнили достижение "$name"!
@@ -251,6 +251,7 @@ luckywars-achievement-progress-toast [
     <yellow>$name
     <white>Прогресс выполенения <yellow>$progress
 ]
+
 luckywars-achievement-find_lucky_blocks-name = <yellow>Не случайная находка
 luckywars-achievement-find_lucky_blocks-title = <font:luckywars:name_legend>&+[НЕ СЛУЧАЙНАЯ НАХОДКА&+]
 luckywars-achievement-find_lucky_blocks-lore [
@@ -258,8 +259,16 @@ luckywars-achievement-find_lucky_blocks-lore [
     <white>∙ Найдите <yellow>20<white> Лаки Блоков на спавне.
     <white>
 ]
-luckywars-achievement-find_lucky_blocks-toast-lore = Найдите 20 Лаки Блоков на спавне.
-luckywars-achievement-find_lucky_blocks-message = <yellow>⚃ Найдено Лаки Блоков: <white>$count/20
+luckywars-achievement-fishing_players-message = <yellow>⚃ Найдено Лаки Блоков: <white>$count/20
+
+luckywars-achievement-fishing_players-name = <yellow>Везучий рыбак
+luckywars-achievement-fishing_players-title = <font:luckywars:name_legend>&+[ВЕЗУЧИЙ РЫБАК&+]
+luckywars-achievement-fishing_players-lore [
+    <white>
+    <white>∙ Убейсте <yellow>15<white> игроков
+    <white>  с помощью удочки.
+    <white>
+]
 
 luckywars-commands-cd = <#f7f286>Пожалуйста, немного подождите.
 luckywars-commands-leave-fail = <red>Вы не в игре!
