@@ -254,6 +254,7 @@ luckywars-achievement-find_lucky_blocks-lore [
     <white>Найдите 20 Лаки Блоков на спавне.
     <white>
 ]
+luckywars-achievement-find_lucky_blocks-toast-lore = Найдите 20 Лаки Блоков на спавне.
 luckywars-achievement-find_lucky_blocks-message = <yellow>⚃ Найдено Лаки Блоков: <white>$count/20
 
 luckywars-commands-cd = <#f7f286>Пожалуйста, немного подождите.
