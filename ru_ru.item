@@ -186,6 +186,8 @@ luckywars-item-lore-vulnerability_sword [
  <font:luckywars:lore_border>1+<font:luckywars:lore>&+ОБРУШИМ ГРАД УДАРОВ!    &+++<font:luckywars:lore_border>0
  <font:luckywars:lore_border>&+C------------------------&+++++D
 ]
+luckywars-item-eat_me = <font:luckywars:name_rare>&+[СЪЕШЬ МЕНЯ&+]
+luckywars-item-drink_me = <font:luckywars:name_rare>&+[ВЫПЕЙ МЕНЯ&+]
 
 luckywars-object-ufo_warn = <yellow>⚠ Критическая высота! ⚠
 
@@ -252,8 +254,8 @@ luckywars-achievement-progress-toast [
     <white>Прогресс: <yellow>$progress
 ]
 
-luckywars-achievement-find_lucky_blocks-name = <yellow>Не случайная находка
-luckywars-achievement-find_lucky_blocks-title = <font:luckywars:name_legend>&+[НЕ СЛУЧАЙНАЯ НАХОДКА&+]
+luckywars-achievement-find_lucky_blocks-name = <yellow>Неслучайная находка
+luckywars-achievement-find_lucky_blocks-title = <font:luckywars:name_legend>&+[НЕСЛУЧАЙНАЯ НАХОДКА&+]
 luckywars-achievement-find_lucky_blocks-lore [
     <white>
     <white>∙ Найдите <yellow>20<white> Лаки Блоков на спавне.

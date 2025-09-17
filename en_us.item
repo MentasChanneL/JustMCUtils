@@ -187,6 +187,13 @@ luckywars-item-lore-vulnerability_sword [
  <font:luckywars:lore_border>1+<font:luckywars:lore>&+OPEN FOR YOU, WELCOME!  + &+<font:luckywars:lore_border>0
  <font:luckywars:lore_border>&+C------------------------&+++++D
 ]
+luckywars-item-eat_me = <font:luckywars:name_rare>&+[EAT ME&+]
+luckywars-item-lore-eat_me [
+ <font:luckywars:lore_border>&+A________________________&+++++B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+THE DAMAGE WINDOW IS ALL&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+OPEN FOR YOU, WELCOME!  + &+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C------------------------&+++++D
+]
 
 luckywars-object-ufo_warn = <yellow>⚠ Critical height! ⚠
 
@@ -242,6 +249,76 @@ luckywars-stats_command-deaths = <#AAAAFF>│ ☠<#C6FFF5> Deaths: <#AAAAFF>$val
 luckywars-stats_command-lucky_blocks = <#AAAAFF>│ ⚃<#C6FFF5> Lucky Block Opened: <#AAAAFF>$value
 luckywars-stats_command-toad_trades = <#AAAAFF>│ 🍖<#C6FFF5> Toad trades: <#AAAAFF>$value
 luckywars-stats_command_footer = <#AAAAFF>└─────────────
+
+luckywars-achievement-progress = <#AFEA00>☑ <gold>Progress: <yellow>$progress
+luckywars-achievement-reward = <#FFEF00><font:luckywars:icons>a<font:default> <gold>Rewards: <#AFEA00>+$balance<font:s><tr:s.2><font:luckywars:icons>h<font:default> <green>+$experience<font:s><tr:s.2><font:default>xp
+luckywars-achievement-completed = <green>✔<bold> COMPLETED
+luckywars-achievement-not_completed = <dark_gray>❌<bold> NOT COMPLETED
+luckywars-achievement-completed_message = <green>✔ You have completed the "$name" achievement!
+luckywars-achievement-progress-toast [
+    <yellow>$name
+    <white>Progress: <yellow>$progress
+]
+
+luckywars-achievement-find_lucky_blocks-name = <yellow>A non-random find
+luckywars-achievement-find_lucky_blocks-title = <font:luckywars:name_legend>&+[A NON-RANDOM FIND&+]
+luckywars-achievement-find_lucky_blocks-lore [
+    <white>
+    <white>∙ Find <yellow>20<white> Lucky Blocks at spawn.
+    <white>
+]
+
+luckywars-achievement-fishing_players-name = <yellow>The Lucky Fisherman
+luckywars-achievement-fishing_players-title = <font:luckywars:name_legend>&+[THE LUCKY FISHERMAN&+]
+luckywars-achievement-fishing_players-lore [
+    <white>
+    <white>∙ Kill <yellow>15<white> players
+    <white>  with the fishing rod's hook.
+    <white>
+]
+
+luckywars-achievement-toad_trades-name = <yellow>Entrepreneur
+luckywars-achievement-toad_trades-title = <font:luckywars:name_legend>&+[ENTREPRENEUR&+]
+luckywars-achievement-toad_trades-lore [
+    <white>
+    <white>∙ Make <yellow>10<white> trades with the toad.
+    <white>
+]
+
+luckywars-achievement-cold_revenge-name = <yellow>Cold revenge
+luckywars-achievement-cold_revenge-title = <font:luckywars:name_legend>&+[COLD REVENGEЬ&+]
+luckywars-achievement-cold_revenge-lore [
+    <white>
+    <white>∙ Kill the Evil Snowman with the <yellow>Snow Cannon<white>.
+    <white>
+]
+
+luckywars-achievement-boomerang_thief-name = <yellow>Lucky throw
+luckywars-achievement-boomerang_thief-title = <font:luckywars:name_legend>&+[LUCKy THROW&+]
+luckywars-achievement-boomerang_thief-lore [
+    <white>
+    <white>∙ Steal with a boomerang
+    <yellow>  10<white> Lucky Blocks near players.
+    <white>
+]
+
+luckywars-achievement-jackpot-name = <yellow>Fortune
+luckywars-achievement-jackpot-title = <font:luckywars:name_legend>&+[FORTUNE&+]
+luckywars-achievement-jackpot-lore [
+    <white>
+    <white>∙ Hit the jackpot on the <yellow>Slot Machine...
+    <white> And be horrified...
+    <white>
+]
+
+luckywars-achievement-sapper-name = <yellow>Smart sapper
+luckywars-achievement-sapper-title = <font:luckywars:name_legend>&+[SMART SAPPER&+]
+luckywars-achievement-sapper-lore [
+    <white>
+    <white>∙ Disarm the <yellow>Chest Trap
+    <white> and collect the reward.
+    <white>
+]
 
 luckywars-commands-cd = <red>Please wait a moment.
 luckywars-commands-leave-fail = <red>You are not in the game!
