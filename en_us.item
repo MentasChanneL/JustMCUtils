@@ -188,12 +188,7 @@ luckywars-item-lore-vulnerability_sword [
  <font:luckywars:lore_border>&+C------------------------&+++++D
 ]
 luckywars-item-eat_me = <font:luckywars:name_rare>&+[EAT ME&+]
-luckywars-item-lore-eat_me [
- <font:luckywars:lore_border>&+A________________________&+++++B
- <font:luckywars:lore_border>1+<font:luckywars:lore>&+THE DAMAGE WINDOW IS ALL&+<font:luckywars:lore_border>0
- <font:luckywars:lore_border>1+<font:luckywars:lore>&+OPEN FOR YOU, WELCOME!  + &+<font:luckywars:lore_border>0
- <font:luckywars:lore_border>&+C------------------------&+++++D
-]
+luckywars-item-drink_me = <font:luckywars:name_rare>&+[DRINK ME&+]
 
 luckywars-object-ufo_warn = <yellow>⚠ Critical height! ⚠
 
