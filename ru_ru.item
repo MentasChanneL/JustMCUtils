@@ -250,11 +250,11 @@ luckywars-experience-level_up-toast = <#d4ff28>$level <#72ff00>уровень!
 luckywars-experience-level_up-message = <green>∙ Вы получили <#d4ff28>$level уровень<green>!
 
 luckywars-sidebar-field-date = <gray>   $day/$month/$year <#a49797>$server
-luckywars-sidebar-field-nick = <white>    Ник: <gray>$nick
-luckywars-sidebar-field-rang = <white>    Ранг: 
-luckywars-sidebar-field-clover = <white>    Листики: <gold>$value <font:luckywars:icons>h<font:default>
-luckywars-sidebar-field-karma = <white>    Карма: <light_purple>$value
-luckywars-sidebar-field-balance = <white>    Изумруды: <green>$value
+luckywars-sidebar-field-nick = <white>   Ник: <gray>$nick
+luckywars-sidebar-field-rang = <white>   Ранг: 
+luckywars-sidebar-field-clover = <white>   Листики: <gold>$value <font:luckywars:icons>h<font:default>
+luckywars-sidebar-field-karma = <white>   Карма: <light_purple>$value †
+luckywars-sidebar-field-balance = <white>   Изумруды: <green>$value ♢
 
 luckywars-achievement-progress = <#AFEA00>☑ <gold>Прогресс: <yellow>$progress
 luckywars-achievement-reward = <#FFEF00><font:luckywars:icons>a<font:default> <gold>Награды: <#AFEA00>+$balance<font:s><tr:s.2><font:luckywars:icons>h<font:default> <green>+$experience<font:s><tr:s.2><font:default>xp
