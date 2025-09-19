@@ -253,8 +253,8 @@ luckywars-sidebar-field-date = <#a49797>  $day/$month/$year $server
 luckywars-sidebar-field-nick = <white>   Ник: <gray>$nick
 luckywars-sidebar-field-rang = <white>   Ранг: 
 luckywars-sidebar-field-clover = <white>   Листики: <#72ff00>$value <font:luckywars:icons>h<font:default>
-luckywars-sidebar-field-karma = <white>   Карма: <purple>$value
-luckywars-sidebar-field-balance = <white>   Изумруды: <purple>$value
+luckywars-sidebar-field-karma = <white>   Карма: <light_purple>$value
+luckywars-sidebar-field-balance = <white>   Изумруды: <light_purple>$value
 
 luckywars-achievement-progress = <#AFEA00>☑ <gold>Прогресс: <yellow>$progress
 luckywars-achievement-reward = <#FFEF00><font:luckywars:icons>a<font:default> <gold>Награды: <#AFEA00>+$balance<font:s><tr:s.2><font:luckywars:icons>h<font:default> <green>+$experience<font:s><tr:s.2><font:default>xp
