@@ -249,13 +249,13 @@ luckywars-experience-add_message = <#72ff00>+$value xp
 luckywars-experience-level_up-toast = <#d4ff28>$level <#72ff00>уровень!
 luckywars-experience-level_up-message = <green>∙ Вы получили <#d4ff28>$level уровень<green>!
 
-luckywars-sidebar-field-date = <gray>   $day/$month/$year <#a49797>$server
-luckywars-sidebar-field-nick = <#e1d2a7>    Ник: <gray>$nick
-luckywars-sidebar-field-rang = <#e1d2a7>    Ранг: 
-luckywars-sidebar-field-clover = <#e1d2a7>    Листики: <gold>$value <font:luckywars:icons>h<font:default>
-luckywars-sidebar-field-karma = <#e1d2a7>    Карма: <light_purple>$value †
-luckywars-sidebar-field-balance = <#e1d2a7>    Изумруды: <green>$value ♢
-luckywars-sidebar-field-server = <yellow>     play.justmc.io
+luckywars-sidebar-field-date = <gray>     $day/$month/$year <#a49797>$server
+luckywars-sidebar-field-nick = <#f2f3dc>    Ник: <#fafbf3>$nick
+luckywars-sidebar-field-rang = <#f2f3dc>    Ранг: 
+luckywars-sidebar-field-clover = <#f2f3dc>    Листики: <gold>$value <font:luckywars:icons>h<font:default>
+luckywars-sidebar-field-karma = <#f2f3dc>    Карма: <light_purple>$value †
+luckywars-sidebar-field-balance = <#f2f3dc>    Изумруды: <green>$value ♢
+luckywars-sidebar-field-server = <yellow>      play.justmc.io
 
 luckywars-achievement-progress = <#AFEA00>☑ <gold>Прогресс: <yellow>$progress
 luckywars-achievement-reward = <#FFEF00><font:luckywars:icons>a<font:default> <gold>Награды: <#AFEA00>+$balance<font:s><tr:s.2><font:luckywars:icons>h<font:default> <green>+$experience<font:s><tr:s.2><font:default>xp
