@@ -245,6 +245,19 @@ luckywars-stats_command-lucky_blocks = <#AAAAFF>│ ⚃<#C6FFF5> Lucky Block Ope
 luckywars-stats_command-toad_trades = <#AAAAFF>│ 🍖<#C6FFF5> Toad trades: <#AAAAFF>$value
 luckywars-stats_command_footer = <#AAAAFF>└─────────────
 
+luckywars-balance-add_message = <#72ff00>+$value <font:luckywars:icons>h<font:default>
+luckywars-experience-add_message = <#72ff00>+$value xp
+luckywars-experience-level_up-toast = <#d4ff28>$level <#72ff00>level!
+luckywars-experience-level_up-message = <green>∙ You have reached the <#d4ff28>$level level<green>!
+
+luckywars-sidebar-field-date = <gray>     $day/$month/$year  <#757575>$server
+luckywars-sidebar-field-nick = <#ebedc9>    Nick: <#f2f3dc>$nick
+luckywars-sidebar-field-rang = <#ebedc9>    Rang: 
+luckywars-sidebar-field-clover = <#ebedc9>    Clovers: <gold>$value <font:luckywars:icons>h<font:default>
+luckywars-sidebar-field-karma = <#ebedc9>    Karma: <light_purple>$value †
+luckywars-sidebar-field-balance = <#ebedc9>    Emeralds: <green>$value ♢
+luckywars-sidebar-field-server = <yellow>      play.justmc.io
+
 luckywars-achievement-progress = <#AFEA00>☑ <gold>Progress: <yellow>$progress
 luckywars-achievement-reward = <#FFEF00><font:luckywars:icons>a<font:default> <gold>Rewards: <#AFEA00>+$balance<font:s><tr:s.2><font:luckywars:icons>h<font:default> <green>+$experience<font:s><tr:s.2><font:default>xp
 luckywars-achievement-completed = <green>✔<bold> COMPLETED

@@ -249,7 +249,7 @@ luckywars-experience-add_message = <#72ff00>+$value xp
 luckywars-experience-level_up-toast = <#d4ff28>$level <#72ff00>уровень!
 luckywars-experience-level_up-message = <green>∙ Вы получили <#d4ff28>$level уровень<green>!
 
-luckywars-sidebar-field-date = <gray>     $day/$month/$year <#757575>$server
+luckywars-sidebar-field-date = <gray>     $day/$month/$year  <#757575>$server
 luckywars-sidebar-field-nick = <#ebedc9>    Ник: <#f2f3dc>$nick
 luckywars-sidebar-field-rang = <#ebedc9>    Ранг: 
 luckywars-sidebar-field-clover = <#ebedc9>    Листики: <gold>$value <font:luckywars:icons>h<font:default>
