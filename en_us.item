@@ -252,7 +252,7 @@ luckywars-experience-level_up-message = <green>∙ You have reached the <#d4ff28
 
 luckywars-sidebar-field-date = <gray>     $day/$month/$year  <#757575>$server
 luckywars-sidebar-field-nick = <#ebedc9>    Nick: <#f2f3dc>$nick
-luckywars-sidebar-field-rang = <#ebedc9>    Rang: 
+luckywars-sidebar-field-rang = <#ebedc9>    Rank: 
 luckywars-sidebar-field-clover = <#ebedc9>    Clovers: <gold>$value <font:luckywars:icons>h<font:default>
 luckywars-sidebar-field-karma = <#ebedc9>    Karma: <light_purple>$value †
 luckywars-sidebar-field-balance = <#ebedc9>    Emeralds: <green>$value ♢
