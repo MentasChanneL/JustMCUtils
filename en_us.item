@@ -253,9 +253,9 @@ luckywars-experience-level_up-message = <green>∙ You have reached the <#d4ff28
 luckywars-sidebar-field-date = <gray>     $day/$month/$year  <#757575>$server
 luckywars-sidebar-field-nick = <#ebedc9>    Nick: <#f2f3dc>$nick
 luckywars-sidebar-field-rang = <#ebedc9>    Rank: 
-luckywars-sidebar-field-clover = <#ebedc9>    Clovers: <gold>$value <font:luckywars:icons>h<font:default>
-luckywars-sidebar-field-karma = <#ebedc9>    Karma: <light_purple>$value †
-luckywars-sidebar-field-balance = <#ebedc9>    Emeralds: <green>$value ♢
+luckywars-sidebar-field-clover = <#ebedc9>    Clovers: <gold>$value<font:s><tr:s.2><font:luckywars:icons>h<font:default>
+luckywars-sidebar-field-karma = <#ebedc9>    Karma: <light_purple>$value<font:s><tr:s.2><font:default>†
+luckywars-sidebar-field-balance = <#ebedc9>    Emeralds: <green>$value<font:s><tr:s.2><font:default>♢
 luckywars-sidebar-field-server = <yellow>      play.justmc.io
 
 luckywars-achievement-progress = <#AFEA00>☑ <gold>Progress: <yellow>$progress
@@ -289,7 +289,7 @@ luckywars-achievement-toad_trades-name = <yellow>Entrepreneur
 luckywars-achievement-toad_trades-title = <font:luckywars:name_legend>&+[ENTREPRENEUR&+]
 luckywars-achievement-toad_trades-lore [
     <white>
-    <white>∙ Make <yellow>10<white> trades with the toad.
+    <white>∙ Make <yellow>5<white> trades with the toad.
     <white>
 ]
 
@@ -305,8 +305,8 @@ luckywars-achievement-boomerang_thief-name = <yellow>Lucky throw
 luckywars-achievement-boomerang_thief-title = <font:luckywars:name_legend>&+[LUCKy THROW&+]
 luckywars-achievement-boomerang_thief-lore [
     <white>
-    <white>∙ Steal with a boomerang
-    <yellow>  10<white> Lucky Blocks near players.
+    <white>∙ Snatch <yellow>10<white> Lucky Blocks
+    <white>  from other players with a Boomerang.
     <white>
 ]
 

@@ -252,9 +252,9 @@ luckywars-experience-level_up-message = <green>∙ Вы получили <#d4ff2
 luckywars-sidebar-field-date = <gray>     $day/$month/$year  <#757575>$server
 luckywars-sidebar-field-nick = <#ebedc9>    Ник: <#f2f3dc>$nick
 luckywars-sidebar-field-rang = <#ebedc9>    Ранг: 
-luckywars-sidebar-field-clover = <#ebedc9>    Листики: <gold>$value <font:luckywars:icons>h<font:default>
-luckywars-sidebar-field-karma = <#ebedc9>    Карма: <light_purple>$value †
-luckywars-sidebar-field-balance = <#ebedc9>    Изумруды: <green>$value ♢
+luckywars-sidebar-field-clover = <#ebedc9>    Листики: <gold>$value<font:s><tr:s.2><font:luckywars:icons>h<font:default>
+luckywars-sidebar-field-karma = <#ebedc9>    Карма: <light_purple>$value<font:s><tr:s.2><font:default>†
+luckywars-sidebar-field-balance = <#ebedc9>    Изумруды: <green>$value<font:s><tr:s.2><font:default>♢
 luckywars-sidebar-field-server = <yellow>      play.justmc.io
 
 luckywars-achievement-progress = <#AFEA00>☑ <gold>Прогресс: <yellow>$progress
@@ -288,7 +288,7 @@ luckywars-achievement-toad_trades-name = <yellow>Предприниматель
 luckywars-achievement-toad_trades-title = <font:luckywars:name_legend>&+[ПРЕДПРИНИМАТЕЛЬ&+]
 luckywars-achievement-toad_trades-lore [
     <white>
-    <white>∙ Совершите <yellow>10<white> обменов с жабой.
+    <white>∙ Совершите <yellow>5<white> обменов с жабой.
     <white>
 ]
 
@@ -305,7 +305,8 @@ luckywars-achievement-boomerang_thief-title = <font:luckywars:name_legend>&+[У�
 luckywars-achievement-boomerang_thief-lore [
     <white>
     <white>∙ Украдите с помощью бумеранга
-    <yellow>  10<white> Лаки Блоков из под носа игроков.
+    <yellow>  10<white> Лаки Блоков
+    <white>  из под носа разных игроков.
     <white>
 ]
 
