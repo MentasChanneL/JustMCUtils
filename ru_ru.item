@@ -351,4 +351,6 @@ luckywars-gui-trader_main-title = <font:luckywars:gui>_0______&+[ТОВАРЫ&+]
 luckywars-gui-trader_main-category-cases = Категория: Кейсы
 luckywars-gui-trader_main-category-transaction = Категория: Обмен валют
 luckywars-gui-trader_main-category-cosmetic = Категория: Косметика
+
+luckywars-gui-cases-open_message = Открыть сундук <gold>⏵ <yellow><key:key.jump> <gold>
 end

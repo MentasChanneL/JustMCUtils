@@ -346,5 +346,7 @@ luckywars-item-info_book = <red>Why can't I play?
 luckywars-item-achievements = <font:luckywars:name_rare>&+[ACHIEVEMENTS&+]
 luckywars-item-platform_profile = <font:luckywars:name_usaly>&+[PROFILE&+]
 
-luckywars-gui-advancements-title = <font:luckywars:gui>_0______&+[ДОСТИЖЕНИЯ&+]
+luckywars-gui-advancements-title = <font:luckywars:gui>_0______&+[ACHIEVEMENTS&+]
+
+luckywars-gui-cases-open_message = Open chest <gold>⏵ <yellow><key:key.jump> <gold>
 end
