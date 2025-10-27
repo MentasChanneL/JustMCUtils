@@ -352,5 +352,5 @@ luckywars-gui-trader_main-category-cases = Категория: Кейсы
 luckywars-gui-trader_main-category-transaction = Категория: Обмен валют
 luckywars-gui-trader_main-category-cosmetic = Категория: Косметика
 
-luckywars-gui-cases-open_message = Открыть сундук <gold>⏵ <yellow><key:key.jump> <gold>
+luckywars-gui-cases-open_message = /minimessage Открыть сундук <gold>⏵ <yellow><key:key.jump> <gray>|<white> Выйти из меню <dark_gray>⏵ <gray><key:key.sneak>
 end
