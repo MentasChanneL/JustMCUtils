@@ -244,8 +244,8 @@ luckywars-stats_command-lucky_blocks = <#AAAAFF>│ ⚃<#C6FFF5> Открыто 
 luckywars-stats_command-toad_trades = <#AAAAFF>│ 🍖<#C6FFF5> Сделок с жабой: <#AAAAFF>$value
 luckywars-stats_command_footer = <#AAAAFF>└─────────────
 
-luckywars-balance-add_message = <#72ff00>+$value <font:luckywars:icons>h<font:default>
-luckywars-experience-add_message = <#72ff00>+$value xp
+luckywars-balance-add_message = <#ffbf00>+$value <font:luckywars:icons>h<font:default>
+luckywars-experience-add_message = <#5bffd0>+$value xp
 luckywars-experience-level_up-toast = <#d4ff28>$level <#72ff00>уровень!
 luckywars-experience-level_up-message = <green>∙ Вы получили <#d4ff28>$level уровень<green>!
 
@@ -346,10 +346,11 @@ luckywars-item-info_book = <red>Почему я не могу поиграть?
 luckywars-item-achievements = <font:luckywars:name_rare>&+[ДОСТИЖЕНИЯ&+]
 luckywars-item-platform_profile = <font:luckywars:name_usaly>&+[ПРОФИЛЬ&+]
 
-luckywars-gui-achievements-title = <font:luckywars:gui>_0_______________++&+[ДОСТИЖЕНИЯ&+]
+luckywars-gui-achievements-title = <font:luckywars:gui>_2_______________++&+[ДОСТИЖЕНИЯ&+]
 luckywars-gui-trader_main-title = <font:luckywars:gui>_0_____________+++++&+[УСЛУГИ&+]
-luckywars-gui-trader_main-category-cases = <font:luckywars:name_rare>&+[ПОКУПКА КЕЙСОВ&+]
-luckywars-gui-trader_main-category-vault = <font:luckywars:name_rare>&+[ОБМЕН ВАЛЮТ&+]
+luckywars-gui-trader_confirm-title = <font:luckywars:gui>_1_____________+++++&+[ПОДТВЕРДИТЕ ПОКУПКУ&+]
+luckywars-item-gui-trader_main-category-cases = <font:luckywars:name_rare>&+[ПОКУПКА КЕЙСОВ&+]
+luckywars-item-gui-trader_main-category-vault = <font:luckywars:name_rare>&+[ОБМЕН ВАЛЮТ&+]
 luckywars-gui-trader_main-category-unknown = <font:luckywars:name_rare>
 luckywars-gui-trader_main-category-cosmetic = Категория: Косметика
 
