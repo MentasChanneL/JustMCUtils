@@ -347,9 +347,10 @@ luckywars-item-achievements = <font:luckywars:name_rare>&+[ДОСТИЖЕНИЯ&
 luckywars-item-platform_profile = <font:luckywars:name_usaly>&+[ПРОФИЛЬ&+]
 
 luckywars-gui-achievements-title = <font:luckywars:gui>_0_______________++&+[ДОСТИЖЕНИЯ&+]
-luckywars-gui-trader_main-title = <font:luckywars:gui>_0______&+[ТОВАРЫ&+]
-luckywars-gui-trader_main-category-cases = Категория: Кейсы
-luckywars-gui-trader_main-category-transaction = Категория: Обмен валют
+luckywars-gui-trader_main-title = <font:luckywars:gui>_0_____________+++++&+[УСЛУГИ&+]
+luckywars-gui-trader_main-category-cases = <font:luckywars:name_rare>&+[ПОКУПКА КЕЙСОВ&+]
+luckywars-gui-trader_main-category-vault = <font:luckywars:name_rare>&+[ОБМЕН ВАЛЮТ&+]
+luckywars-gui-trader_main-category-unknown = <font:luckywars:name_rare>
 luckywars-gui-trader_main-category-cosmetic = Категория: Косметика
 
 luckywars-gui-cases-open_message = Открыть сундук <gold>⏵ <yellow><key:key.jump> <gray>|<white> Выйти из меню <dark_gray>⏵ <key:key.sneak>
