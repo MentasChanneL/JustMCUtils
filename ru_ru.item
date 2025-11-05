@@ -328,6 +328,7 @@ luckywars-achievement-sapper-lore [
     <white>
 ]
 
+luckywars-commands-temporarily_unavailable = <red>Фукнция временно не доступна...
 luckywars-commands-cd = <#f7f286>Пожалуйста, немного подождите.
 luckywars-commands-leave-fail = <red>Вы не в игре!
 luckywars-commands-play-fail = <red>Вы уже в игре!

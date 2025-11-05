@@ -328,7 +328,8 @@ luckywars-achievement-sapper-lore [
     <white>
 ]
 
-luckywars-commands-cd = <red>Please wait a moment.
+luckywars-commands-temporarily_unavailable = <red>Function temporarily unavailable...
+luckywars-commands-cd = <#f7f286>Please wait a moment.
 luckywars-commands-leave-fail = <red>You are not in the game!
 luckywars-commands-play-fail = <red>You already in game!
 luckywars-protocol_warning = <#f7f286>We recommend playing on 1.21.8.
