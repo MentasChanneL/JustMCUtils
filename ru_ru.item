@@ -329,7 +329,7 @@ luckywars-achievement-sapper-lore [
 ]
 
 luckywars-commands-no_money = <red>Недостаточно средств!
-luckywars-commands-temporarily_unavailable = <red>Фукнция временно не доступна...
+luckywars-commands-temporarily_unavailable = <red>Функция временно не доступна...
 luckywars-commands-cd = <#f7f286>Пожалуйста, немного подождите.
 luckywars-commands-leave-fail = <red>Вы не в игре!
 luckywars-commands-play-fail = <red>Вы уже в игре!
