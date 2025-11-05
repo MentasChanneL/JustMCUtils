@@ -328,6 +328,7 @@ luckywars-achievement-sapper-lore [
     <white>
 ]
 
+luckywars-commands-no_money = <red>Not enough funds!
 luckywars-commands-temporarily_unavailable = <red>Function temporarily unavailable...
 luckywars-commands-cd = <#f7f286>Please wait a moment.
 luckywars-commands-leave-fail = <red>You are not in the game!
