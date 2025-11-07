@@ -245,6 +245,7 @@ luckywars-stats_command-toad_trades = <#AAAAFF>│ 🍖<#C6FFF5> Сделок с
 luckywars-stats_command_footer = <#AAAAFF>└─────────────
 
 luckywars-balance-add_message = <#ffbf00>+$value <font:luckywars:icons>h<font:default>
+luckywars-balance-remove_message = <#ffbf00>-$value <font:luckywars:icons>h<font:default>
 luckywars-experience-add_message = <#5bffd0>+$value xp
 luckywars-experience-level_up-toast = <#d4ff28>$level <#72ff00>уровень!
 luckywars-experience-level_up-message = <green>∙ Вы получили <#d4ff28>$level уровень<green>!
@@ -363,6 +364,8 @@ luckywars-gui-trader_confirm-description [
     <white>Нажмите "<green>Подтвердить<white>" чтобы купить предмет.
     <white>Нажмите "<red>Отменить<white>" для отмены покупки.
 ]
+luckywars-item-gui-trader_confirm-cancel = <red><bold>Отменить
+luckywars-item-gui-trader_confirm-confirm = <green><bold>Подтвердить
 luckywars-gui-trader_values-title_clovers = <font:luckywars:gui>_______++++4________________+++_&+[ПОКУПКА ЛИСТИКОВ&+]_______++__<#be9670><font:luckywars:gui_values_numbers>$cost
 luckywars-gui-trader_values-title_emeralds = <font:luckywars:gui>_______++++5__________________&+[ПОКУПКА ИЗУМРУДОВ&+]_______+++__<#be9670><font:luckywars:gui_values_numbers>$cost
 luckywars-gui-trader_values-buy-clovers-description = <black>Покупка "Листиков" в количестве <gold>$amount <font:luckywars:icons>h<reset> <black>штук
