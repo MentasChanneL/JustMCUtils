@@ -354,6 +354,15 @@ luckywars-gui-trader_main-title = <font:luckywars:gui>_0_____________+++++&+[У�
 luckywars-gui-trader_main-title_secret = <font:luckywars:gui>_*_________________++++++_&+[TURRON TURRON TURRON&+]
 luckywars-gui-trader_cases-title = <font:luckywars:gui>_3_______________+++_&+[ПОКУПКА КЕЙСОВ&+]
 luckywars-gui-trader_confirm-title = <font:luckywars:gui>_1_____________+++++&+[ПОДТВЕРДИТЕ ПОКУПКУ&+]
+luckywars-gui-trader_confirm-title-item = <font:luckywars:name_rare>&+[СОВЕРШЕНИЕ ПОКУПКИ&+]
+luckywars-gui-trader_confirm-description [
+    <white>Вы покупаете предмет:
+    <white>"$item<reset><white>"
+    <white>по цене <gold>$price <font:luckywars:icons>h<reset><white> ($price "Листиков").
+    <white> 
+    <white>Нажмите "<green>Подтвердить<white>" чтобы купить предмет.
+    <white>Нажмите "<red>Отменить<white>" для отмены покупки.
+]
 luckywars-gui-trader_values-title_clovers = <font:luckywars:gui>_______++++4________________+++_&+[ПОКУПКА ЛИСТИКОВ&+]_______++__<#be9670><font:luckywars:gui_values_numbers>$cost
 luckywars-gui-trader_values-title_emeralds = <font:luckywars:gui>_______++++5__________________&+[ПОКУПКА ИЗУМРУДОВ&+]_______+++__<#be9670><font:luckywars:gui_values_numbers>$cost
 luckywars-gui-trader_values-buy-clovers-description = <black>Покупка "Листиков" в количестве <gold>$amount <font:luckywars:icons>h<reset> <black>штук
@@ -361,7 +370,7 @@ luckywars-gui-trader_values-buy-emeralds-description = <black>Покупка "И
 luckywars-item-gui-trader_main-category-cases = <font:luckywars:name_rare>&+[ПОКУПКА КЕЙСОВ&+]
 luckywars-item-gui-trader_main-category-vault = <font:luckywars:name_rare>&+[ОБМЕН ВАЛЮТ&+]
 luckywars-gui-trader_main-category-unknown = <font:luckywars:name_rare>
-luckywars-gui-trader_main-category-cosmetic = Категория: Косметика
 
+luckywars-price = Цена: <gold>$price <font:luckywars:icons>h
 luckywars-gui-cases-open_message = Открыть сундук <gold>⏵ <yellow><key:key.jump> <gray>|<white> Выйти из меню <dark_gray>⏵ <key:key.sneak>
 end
