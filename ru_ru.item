@@ -358,7 +358,7 @@ luckywars-gui-trader_confirm-title-item = <font:luckywars:name_rare>&+[СОВЕ�
 luckywars-gui-trader_confirm-description [
     <white>Вы покупаете предмет:
     <white>"$item<reset><white>"
-    <white>по цене <gold>$price <font:luckywars:icons>h<reset><white> ($price "Листиков").
+    <white>по цене <gold>$price <font:luckywars:icons>h<reset><italic:false><white> ($price "Листиков").
     <white> 
     <white>Нажмите "<green>Подтвердить<white>" чтобы купить предмет.
     <white>Нажмите "<red>Отменить<white>" для отмены покупки.
@@ -373,4 +373,18 @@ luckywars-gui-trader_main-category-unknown = <font:luckywars:name_rare>
 
 luckywars-price = Цена: <gold>$price <font:luckywars:icons>h
 luckywars-gui-cases-open_message = Открыть сундук <gold>⏵ <yellow><key:key.jump> <gray>|<white> Выйти из меню <dark_gray>⏵ <key:key.sneak>
+
+luckywars-item-case-suffixes = <font:luckywars:name_rare>&+[СУФФИКСНЫЙ КЕЙС LUCKY WARS&+]
+luckywars-item-lore-case-suffixes [
+    <white>☷ Наполнение кейса:
+    <#A87AFF>⁷⁷⁷ <#7AD5FF>⁷⁷⁷
+    <red>Лакиварс
+    <gold>Пицца Джокер НЛО
+    <yellow>Фортуна Удача Магия Кунай Лакиблок
+    <green>Сюрприз Везунчик Ловушка Трофей
+    <green>Талисман Волшебник Удочка
+    <#ABC4D6>Невезение Бумеранг Метеорит
+    <#ABC4D6>Вопрос Попрыгун Жезл Перчик
+    <#ABC4D6>Жвачка Крюк Клевер
+]
 end
