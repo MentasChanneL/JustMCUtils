@@ -246,6 +246,7 @@ luckywars-stats_command-toad_trades = <#AAAAFF>│ 🍖<#C6FFF5> Toad trades: <#
 luckywars-stats_command_footer = <#AAAAFF>└─────────────
 
 luckywars-balance-add_message = <#ffbf00>+$value <font:luckywars:icons>h<font:default>
+luckywars-balance-remove_message = <#ffbf00>-$value <font:luckywars:icons>h<font:default>
 luckywars-experience-add_message = <#5bffd0>+$value xp
 luckywars-experience-level_up-toast = <#d4ff28>$level <#72ff00>level!
 luckywars-experience-level_up-message = <green>∙ You have reached the <#d4ff28>$level level<green>!
