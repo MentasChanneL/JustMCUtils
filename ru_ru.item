@@ -376,7 +376,9 @@ luckywars-gui-cases-open_message = Открыть сундук <gold>⏵ <yellow
 
 luckywars-item-case-suffixes = <font:luckywars:name_rare>&+[СУФФИКСНЫЙ КЕЙС LUCKY WARS&+]
 luckywars-item-lore-case-suffixes [
+    <white>
     <white>☷ Наполнение кейса:
+    <white>
     <#A87AFF>⁷⁷⁷ <#7AD5FF>⁷⁷⁷
     <red>Лакиварс
     <gold>Пицца Джокер НЛО
