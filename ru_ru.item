@@ -357,9 +357,8 @@ luckywars-gui-trader_cases-title = <font:luckywars:gui>_3_______________+++_&+[�
 luckywars-gui-trader_confirm-title = <font:luckywars:gui>_1__________________+++++&+[ПОДТВЕРДИТЕ ПОКУПКУ&+]
 luckywars-gui-trader_confirm-title-item = <font:luckywars:name_rare>&+[СОВЕРШЕНИЕ ПОКУПКИ&+]
 luckywars-gui-trader_confirm-description [
-    <white>Вы покупаете предмет:
-    <white>"$item<reset><white>"
-    <white>по цене <gold>$price <font:luckywars:icons>h<reset><italic:false><white> ($price "Листиков").
+    <white>Вы покупаете предмет: "$item<reset><white><italic:false>"
+    <white>по цене <gold>$price <font:luckywars:icons>h<reset><italic:false>.
     <white> 
     <white>Нажмите "<green>Подтвердить<white>" чтобы купить предмет.
     <white>Нажмите "<red>Отменить<white>" для отмены покупки.
