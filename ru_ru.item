@@ -387,6 +387,7 @@ luckywars-price = Цена: <gold>$price <font:luckywars:icons>h
 luckywars-buy-case-message = <green>Вы приобрели кейс "<reset>$name<reset><green>"!<white> Используйте команду <green>/cases<white> для просмотра или открытия приобретенных кейсов.
 
 luckywars-gui-cases-open_message = Открыть сундук <gold>⏵ <yellow><key:key.jump> <gray>|<white> Выйти из меню <dark_gray>⏵ <key:key.sneak>
+luckywars-gui-cases-leave_message = Выйти из меню <dark_gray>⏵ <key:key.sneak>
 luckywars-gui-cases-empty_message = Нет доступных кейсов :(
 
 luckywars-item-case-suffixes = <font:luckywars:name_rare>&+[СУФФИКСНЫЙ КЕЙС LUCKY WARS&+]
