@@ -244,6 +244,8 @@ luckywars-stats_command-lucky_blocks = <#AAAAFF>│ ⚃<#C6FFF5> Открыто 
 luckywars-stats_command-toad_trades = <#AAAAFF>│ 🍖<#C6FFF5> Сделок с жабой: <#AAAAFF>$value
 luckywars-stats_command_footer = <#AAAAFF>└─────────────
 
+luckywars-cases_command-hub_required = <red>Команда доступна только в хабе!
+
 luckywars-balance-add_message = <#ffbf00>+$value <font:luckywars:icons>h<font:default>
 luckywars-balance-remove_message = <#ffbf00>-$value <font:luckywars:icons>h<font:default>
 luckywars-experience-add_message = <#5bffd0>+$value xp
@@ -355,10 +357,10 @@ luckywars-gui-trader_main-title = <font:luckywars:gui>_0_____________+++++&+[У�
 luckywars-gui-trader_main-title_secret = <font:luckywars:gui>_*_________________++++++_&+[TURRON TURRON TURRON&+]
 luckywars-gui-trader_cases-title = <font:luckywars:gui>_3_______________+++_&+[ПОКУПКА КЕЙСОВ&+]
 luckywars-gui-trader_confirm-title = <font:luckywars:gui>_1__________________+++++&+[ПОДТВЕРДИТЕ ПОКУПКУ&+]
-luckywars-gui-trader_confirm-title-item = <font:luckywars:name_rare>&+[СОВЕРШЕНИЕ ПОКУПКИ&+]
+luckywars-gui-trader_confirm-title-item = <yellow><bold>СОВЕРШЕНИЕ ПОКУПКИ
 luckywars-gui-trader_confirm-description [
     <white>Вы покупаете предмет: "$item<reset><white><italic:false>"
-    <white>по цене <gold>$price <font:luckywars:icons>h<reset><italic:false>.
+    <white>по цене <gold>$price <font:luckywars:icons>h<reset><italic:false><white>.
     <white> 
     <white>Нажмите "<green>Подтвердить<white>" чтобы купить предмет.
     <white>Нажмите "<red>Отменить<white>" для отмены покупки.
@@ -382,9 +384,10 @@ luckywars-item-gui-trader_main-category-vault = <font:luckywars:name_rare>&+[О�
 luckywars-gui-trader_main-category-unknown = <font:luckywars:name_rare>
 
 luckywars-price = Цена: <gold>$price <font:luckywars:icons>h
-luckywars-buy-case-message = <green>Вы приобрели кейс "<reset>$name<green>"!<white> Используйте команду <green>/cases<white> для просмотра или открытия приобретенных кейсов.
+luckywars-buy-case-message = <green>Вы приобрели кейс "<reset>$name<reset><green>"!<white> Используйте команду <green>/cases<white> для просмотра или открытия приобретенных кейсов.
 
 luckywars-gui-cases-open_message = Открыть сундук <gold>⏵ <yellow><key:key.jump> <gray>|<white> Выйти из меню <dark_gray>⏵ <key:key.sneak>
+luckywars-gui-cases-empty_message = Нет доступных кейсов :(
 
 luckywars-item-case-suffixes = <font:luckywars:name_rare>&+[СУФФИКСНЫЙ КЕЙС LUCKY WARS&+]
 luckywars-item-lore-case-suffixes [
