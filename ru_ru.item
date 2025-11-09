@@ -245,6 +245,8 @@ luckywars-stats_command-toad_trades = <#AAAAFF>│ 🍖<#C6FFF5> Сделок с
 luckywars-stats_command_footer = <#AAAAFF>└─────────────
 
 luckywars-cases_command-hub_required = <red>Команда доступна только в хабе!
+luckywars-cases_command-scene_required = <red>Этот игрок не находится в меню кейсов.
+luckywars-command-player_not_found = <red>Игрок не найден!
 
 luckywars-balance-add_message = <#ffbf00>+$value <font:luckywars:icons>h<font:default>
 luckywars-balance-remove_message = <#ffbf00>-$value <font:luckywars:icons>h<font:default>

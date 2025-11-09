@@ -246,6 +246,8 @@ luckywars-stats_command-toad_trades = <#AAAAFF>│ 🍖<#C6FFF5> Toad trades: <#
 luckywars-stats_command_footer = <#AAAAFF>└─────────────
 
 luckywars-cases_command-hub_required = <red>This command is only available in the hub!
+luckywars-cases_command-scene_required = <red>This player is not in the case opening menu.
+luckywars-command-player_not_found = <red>Player not found!
 
 luckywars-balance-add_message = <#ffbf00>+$value <font:luckywars:icons>h<font:default>
 luckywars-balance-remove_message = <#ffbf00>-$value <font:luckywars:icons>h<font:default>
