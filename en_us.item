@@ -393,7 +393,7 @@ luckywars-gui-cases-leave_message = Exit menu <dark_gray>⏵ <key:key.sneak>
 luckywars-gui-cases-empty_message = No cases available :(
 luckywars-gui-cases-spectate_message = You are watching <yellow>$player's menu <gray>| <white>Exit menu <dark_gray>⏵ <key:key.sneak>
 luckywars-gui-cases-audience = <gray>Audience: $players
-luckywars-case-suffix-drop_message = <white>Player $player<reset><white> got suffix $suffix<reset><white> from case!
+luckywars-case-suffix-drop_message = <gold>∙ <white>Player $player<reset><white> got suffix $suffix<reset><white> from case!
 
 luckywars-hub_trader-nick = <font:luckywars:name_usaly>&+[ТОРГОВЕЦ&+]
 luckywars-item-case-suffixes = <font:luckywars:name_rare>&+[LUCKY WARS SUFFIX CASE&+]
