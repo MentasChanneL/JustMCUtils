@@ -354,11 +354,11 @@ luckywars-item-achievements = <font:luckywars:name_rare>&+[ACHIEVEMENTS&+]
 luckywars-item-platform_profile = <font:luckywars:name_usaly>&+[PROFILE&+]
 
 luckywars-item-gui-back = <font:luckywars:name_usaly>&+[BACK&+]
-luckywars-gui-achievements-title = <font:luckywars:gui>_2_______________++&+[ACHIEVEMENTS&+]
-luckywars-gui-trader_main-title = <font:luckywars:gui>_0_____________+++++&+[TRADER&+]
+luckywars-gui-achievements-title = <font:luckywars:gui>_2________________&+[ACHIEVEMENTS&+]
+luckywars-gui-trader_main-title = <font:luckywars:gui>_0_____________++++++&+[TRADER&+]
 luckywars-gui-trader_main-title_secret = <font:luckywars:gui>_*_________________++++++_&+[TURRON TURRON TURRON&+]
-luckywars-gui-trader_cases-title = <font:luckywars:gui>_3_______________+++_&+[BUYING CASES&+]
-luckywars-gui-trader_confirm-title = <font:luckywars:gui>_1__________________+++++&+[CONFIRM PURCHASE&+]
+luckywars-gui-trader_cases-title = <font:luckywars:gui>_3________________&+[BUYING CASES&+]
+luckywars-gui-trader_confirm-title = <font:luckywars:gui>_1_________________+++&+[CONFIRM PURCHASE&+]
 luckywars-gui-trader_confirm-title-item = <yellow><bold>MAKING A PURCHASE
 luckywars-gui-trader_confirm-description [
     <white>You are purchasing the item: "$item<reset><white><italic:false>"
@@ -377,8 +377,8 @@ luckywars-gui-trader_confirm-buy_on_site-message [
     <aqua><u><click:open_url:https://justmc.ru/shop/cases>https://justmc.ru/shop/cases</u> <dark_gray>←<bold> CLICK 
     <aqua><u><click:open_url:https://justmc.ru/shop/cases>https://justmc.ru/shop/cases</u> <dark_gray>←<bold> CLICK
 ]
-luckywars-gui-trader_values-title_clovers = <font:luckywars:gui>_______++++4________________+++_&+[BUY CLOVERS&+]_______++__<#be9670><font:luckywars:gui_values_numbers>$cost
-luckywars-gui-trader_values-title_emeralds = <font:luckywars:gui>_______++++5__________________&+[BUY EMERALDS&+]_______+++__<#be9670><font:luckywars:gui_values_numbers>$cost
+luckywars-gui-trader_values-title_clovers = <font:luckywars:gui>_______++++4______________+++_&+[BUY CLOVERS&+]_____++__<#be9670><font:luckywars:gui_values_numbers>$cost
+luckywars-gui-trader_values-title_emeralds = <font:luckywars:gui>_______++++5______________++++++_&+[BUY EMERALDS&+]_____++++__<#be9670><font:luckywars:gui_values_numbers>$cost
 luckywars-gui-trader_values-buy-clovers-description = <black>Buy "Clovers" in the amount of <gold>$amount <font:luckywars:icons>h<reset> <black>pieces
 luckywars-gui-trader_values-buy-emeralds-description = <black>Buy "Emeralds" in the amount of <green>$amount ♢<black>pieces
 luckywars-item-gui-trader_main-category-cases = <font:luckywars:name_rare>&+[BUY CASES&+]
