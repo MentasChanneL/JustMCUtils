@@ -394,6 +394,7 @@ luckywars-gui-cases-empty_message = Нет доступных кейсов :(
 luckywars-gui-cases-spectate_message = Вы наблюдаете меню <yellow>$player <gray>| <white>Выйти из меню <dark_gray>⏵ <key:key.sneak>
 luckywars-gui-cases-audience = <gray>Зрители: $players
 
+luckywars-hub_trader-nick = <font:luckywars:name_usaly>&+[ТОРГОВЕЦ&+]
 luckywars-item-case-suffixes = <font:luckywars:name_rare>&+[СУФФИКСНЫЙ КЕЙС LUCKY WARS&+]
 luckywars-item-lore-case-suffixes [
     <white>

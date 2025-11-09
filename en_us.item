@@ -394,6 +394,7 @@ luckywars-gui-cases-empty_message = No cases available :(
 luckywars-gui-cases-spectate_message = You are watching <yellow>$player's menu <gray>| <white>Exit menu <dark_gray>⏵ <key:key.sneak>
 luckywars-gui-cases-audience = <gray>Audience: $players
 
+luckywars-hub_trader-nick = <font:luckywars:name_usaly>&+[ТОРГОВЕЦ&+]
 luckywars-item-case-suffixes = <font:luckywars:name_rare>&+[LUCKY WARS SUFFIX CASE&+]
 luckywars-item-lore-case-suffixes [
     <white>
