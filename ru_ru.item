@@ -369,11 +369,11 @@ luckywars-item-gui-trader_confirm-cancel = <red><bold>Отменить
 luckywars-item-gui-trader_confirm-confirm = <green><bold>Подтвердить
 luckywars-item-gui-trader_confirm-buy_on_site = <white><bold>→ Купить на сайте <bold><blue>Just<red>MC <white><bold>←
 luckywars-gui-trader_confirm-buy_on_site-message [
-    <aqua><u><click:open_url:https://justmc.ru/shop/cases>https://justmc.ru/shop/cases</u> <dark_gray><bold>← НАЖМИ
-    <aqua><u><click:open_url:https://justmc.ru/shop/cases>https://justmc.ru/shop/cases</u> <dark_gray><bold>← НАЖМИ
-    <aqua><u><click:open_url:https://justmc.ru/shop/cases>https://justmc.ru/shop/cases</u> <dark_gray><bold>← НАЖМИ
-    <aqua><u><click:open_url:https://justmc.ru/shop/cases>https://justmc.ru/shop/cases</u> <dark_gray><bold>← НАЖМИ
-    <aqua><u><click:open_url:https://justmc.ru/shop/cases>https://justmc.ru/shop/cases</u> <dark_gray><bold>← НАЖМИ
+    <aqua><u><click:open_url:https://justmc.ru/shop/cases>https://justmc.ru/shop/cases</u> <dark_gray>←<bold> НАЖМИ
+    <aqua><u><click:open_url:https://justmc.ru/shop/cases>https://justmc.ru/shop/cases</u> <dark_gray>←<bold> НАЖМИ
+    <aqua><u><click:open_url:https://justmc.ru/shop/cases>https://justmc.ru/shop/cases</u> <dark_gray>←<bold> НАЖМИ
+    <aqua><u><click:open_url:https://justmc.ru/shop/cases>https://justmc.ru/shop/cases</u> <dark_gray>←<bold> НАЖМИ
+    <aqua><u><click:open_url:https://justmc.ru/shop/cases>https://justmc.ru/shop/cases</u> <dark_gray>←<bold> НАЖМИ
 ]
 luckywars-gui-trader_values-title_clovers = <font:luckywars:gui>_______++++4________________+++_&+[ПОКУПКА ЛИСТИКОВ&+]_______++__<#be9670><font:luckywars:gui_values_numbers>$cost
 luckywars-gui-trader_values-title_emeralds = <font:luckywars:gui>_______++++5__________________&+[ПОКУПКА ИЗУМРУДОВ&+]_______+++__<#be9670><font:luckywars:gui_values_numbers>$cost

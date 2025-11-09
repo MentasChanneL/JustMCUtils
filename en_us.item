@@ -245,6 +245,8 @@ luckywars-stats_command-lucky_blocks = <#AAAAFF>│ ⚃<#C6FFF5> Lucky Block Ope
 luckywars-stats_command-toad_trades = <#AAAAFF>│ 🍖<#C6FFF5> Toad trades: <#AAAAFF>$value
 luckywars-stats_command_footer = <#AAAAFF>└─────────────
 
+luckywars-cases_command-hub_required = <red>This command is only available in the hub!
+
 luckywars-balance-add_message = <#ffbf00>+$value <font:luckywars:icons>h<font:default>
 luckywars-balance-remove_message = <#ffbf00>-$value <font:luckywars:icons>h<font:default>
 luckywars-experience-add_message = <#5bffd0>+$value xp
@@ -349,7 +351,58 @@ luckywars-item-info_book = <red>Why can't I play?
 luckywars-item-achievements = <font:luckywars:name_rare>&+[ACHIEVEMENTS&+]
 luckywars-item-platform_profile = <font:luckywars:name_usaly>&+[PROFILE&+]
 
-luckywars-gui-advancements-title = <font:luckywars:gui>_0______&+[ACHIEVEMENTS&+]
+luckywars-item-gui-back = <font:luckywars:name_usaly>&+[BACK&+]
+luckywars-gui-achievements-title = <font:luckywars:gui>_2_______________++&+[ACHIEVEMENTS&+]
+luckywars-gui-trader_main-title = <font:luckywars:gui>_0_____________+++++&+[TRADER&+]
+luckywars-gui-trader_main-title_secret = <font:luckywars:gui>_*_________________++++++_&+[TURRON TURRON TURRON&+]
+luckywars-gui-trader_cases-title = <font:luckywars:gui>_3_______________+++_&+[BUYING CASES&+]
+luckywars-gui-trader_confirm-title = <font:luckywars:gui>_1__________________+++++&+[CONFIRM PURCHASE&+]
+luckywars-gui-trader_confirm-title-item = <yellow><bold>MAKING A PURCHASE
+luckywars-gui-trader_confirm-description [
+    <white>You are purchasing the item: "$item<reset><white><italic:false>"
+    <white>for <gold>$price <font:luckywars:icons>h<reset><italic:false><white>.
+    <white>
+    <white>Click "<green>Confirm<white>" to purchase the item.
+    <white>Click "<red>Cancel<white>" to cancel the purchase.
+]
+luckywars-item-gui-trader_confirm-cancel = <red><bold>Cancel
+luckywars-item-gui-trader_confirm-confirm = <green><bold>Confirm
+luckywars-item-gui-trader_confirm-buy_on_site = <white><bold>→ Buy on site <bold><blue>Just<red>MC <white><bold>←
+luckywars-gui-trader_confirm-buy_on_site-message [ 
+    <aqua><u><click:open_url:https://justmc.ru/shop/cases>https://justmc.ru/shop/cases</u> <dark_gray>←<bold> CLICK 
+    <aqua><u><click:open_url:https://justmc.ru/shop/cases>https://justmc.ru/shop/cases</u> <dark_gray>←<bold> CLICK 
+    <aqua><u><click:open_url:https://justmc.ru/shop/cases>https://justmc.ru/shop/cases</u> <dark_gray>←<bold> CLICK 
+    <aqua><u><click:open_url:https://justmc.ru/shop/cases>https://justmc.ru/shop/cases</u> <dark_gray>←<bold> CLICK 
+    <aqua><u><click:open_url:https://justmc.ru/shop/cases>https://justmc.ru/shop/cases</u> <dark_gray>←<bold> CLICK
+]
+luckywars-gui-trader_values-title_clovers = <font:luckywars:gui>_______++++4________________+++_&+[BUY CLOVERS&+]_______++__<#be9670><font:luckywars:gui_values_numbers>$cost
+luckywars-gui-trader_values-title_emeralds = <font:luckywars:gui>_______++++5__________________&+[BUY EMERALDS&+]_______+++__<#be9670><font:luckywars:gui_values_numbers>$cost
+luckywars-gui-trader_values-buy-clovers-description = <black>Buy "Clovers" in the amount of <gold>$amount <font:luckywars:icons>h<reset> <black>pieces
+luckywars-gui-trader_values-buy-emeralds-description = <black>Buy "Emeralds" in the amount of <green>$amount ♢<black>pieces
+luckywars-item-gui-trader_main-category-cases = <font:luckywars:name_rare>&+[BUY CASES&+]
+luckywars-item-gui-trader_main-category-vault = <font:luckywars:name_rare>&+[EXCHANGE CURRENCY&+]
+luckywars-gui-trader_main-category-unknown = <font:luckywars:name_rare>
 
-luckywars-gui-cases-open_message = Open chest <gold>⏵ <yellow><key:key.jump> <gold>
+luckywars-price = Price: <gold>$price <font:luckywars:icons>h
+luckywars-buy-case-message = <green>You purchased a case "<reset>$name<reset><green>"!<white> Use the <green>/cases<white> command to view or open purchased cases.
+
+luckywars-gui-cases-open_message = Open chest <gold>⏵ <yellow><key:key.jump> <gray>|<white> Exit menu <dark_gray>⏵ <key:key.sneak>
+luckywars-gui-cases-leave_message = Exit menu <dark_gray>⏵ <key:key.sneak>
+luckywars-gui-cases-empty_message = No cases available :(
+
+luckywars-item-case-suffixes = <font:luckywars:name_rare>&+[LUCKY WARS SUFFIX CASE&+]
+luckywars-item-lore-case-suffixes [
+    <white>
+    <white>☷ Case contents:
+    <white>
+    <#A87AFF>⁷⁷⁷ <#7AD5FF>⁷⁷⁷
+    <red>Лакиварс
+    <gold>Пицца Джокер НЛО
+    <yellow>Фортуна Удача Магия Кунай Лакиблок
+    <green>Сюрприз Везунчик Ловушка Трофей
+    <green>Талисман Волшебник Удочка
+    <#ABC4D6>Невезение Бумеранг Метеорит
+    <#ABC4D6>Вопрос Попрыгун Жезл Перчик
+    <#ABC4D6>Жвачка Крюк Клевер
+]
 end
