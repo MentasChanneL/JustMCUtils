@@ -392,6 +392,7 @@ luckywars-gui-cases-open_message = Open chest <gold>⏵ <yellow><key:key.jump> <
 luckywars-gui-cases-leave_message = Exit menu <dark_gray>⏵ <key:key.sneak>
 luckywars-gui-cases-empty_message = No cases available :(
 luckywars-gui-cases-spectate_message = You are watching <yellow>$player's menu <gray>| <white>Exit menu <dark_gray>⏵ <key:key.sneak>
+luckywars-gui-cases-audience = <gray>Audience: $players
 
 luckywars-item-case-suffixes = <font:luckywars:name_rare>&+[LUCKY WARS SUFFIX CASE&+]
 luckywars-item-lore-case-suffixes [
