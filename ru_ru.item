@@ -190,9 +190,9 @@ luckywars-item-eat_me = <font:luckywars:name_rare>&+[СЪЕШЬ МЕНЯ&+]
 luckywars-item-drink_me = <font:luckywars:name_rare>&+[ВЫПЕЙ МЕНЯ&+]
 luckywars-item-money = <font:luckywars:name_rare>&+[МОНЕТКА&+]
 luckywars-item-lore-money [
- <font:luckywars:lore_border>&+A__________________&+++B
- <font:luckywars:lore_border>1+<font:luckywars:lore>&+МОЖНО ИСПОЛЬЗОВАТЬ&+++<font:luckywars:lore_border>0
- <font:luckywars:lore_border>&+C------------------&+++D
+ <font:luckywars:lore_border>&+A__________________&++B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+МОЖНО ИСПОЛЬЗОВАТЬ&++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C------------------&++D
 ]
 
 luckywars-message-welcome [
