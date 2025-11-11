@@ -190,7 +190,16 @@ luckywars-item-lore-vulnerability_sword [
 luckywars-item-eat_me = <font:luckywars:name_rare>&+[EAT ME&+]
 luckywars-item-drink_me = <font:luckywars:name_rare>&+[DRINK ME&+]
 
-luckywars-object-ufo_warn = <yellow>⚠ Critical height! ⚠
+luckywars-message-welcome [
+    <bold><blue>Just<red>MC <reset><dark_gray>⁎ <yellow>L<gold>ucky<yellow>W<gold>ars
+    <gray><italic>Безудержно абсурдные сражения
+    <click:open_url:https://justmc.io><hover:show_text:Click me!><gray>»◦ <white><bold>Site<bold:false> <dark_gray>› <aqua>justmc.io <dark_gray>← click here
+    <click:open_url:https://discord.justmc.io><hover:show_text:Click me!><gray>»◦ <white><bold>Discord<bold:false> <dark_gray>› <aqua>discord.justmc.io <dark_gray>← click here
+    <click:open_url:https://t.me/justmc_news><hover:show_text:Click me!><gray>»◦ <white><bold>Telegram<bold:false> <dark_gray>› <aqua>t.me/justmc_news <dark_gray>← click here
+    <click:open_url:https://vk.com/just_community><hover:show_text:Click me!><gray>»◦ <white><bold>VK<bold:false> <dark_gray>› <aqua>vk.com/just_community <dark_gray>← click here
+]
+
+luckywars-feature-ufo-warn = <yellow>⚠ Critical height! ⚠
 
 luckywars-game_queue-header = <shadow:#00000000><font:luckywars:icons>3.3.3.3.3.3.3
 luckywars-game_queue-find_players = <shadow:#00000000><white><font:luckywars:game_queue1>Waiting a players...
