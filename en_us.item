@@ -189,6 +189,12 @@ luckywars-item-lore-vulnerability_sword [
 ]
 luckywars-item-eat_me = <font:luckywars:name_rare>&+[EAT ME&+]
 luckywars-item-drink_me = <font:luckywars:name_rare>&+[DRINK ME&+]
+luckywars-item-money = <font:luckywars:name_rare>&+[COIN&+]
+luckywars-item-lore-money [
+ <font:luckywars:lore_border>&+A______________&+++B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+YOU CAN USE IT&+<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C--------------&+++D
+]
 
 luckywars-message-welcome [
     <white>
