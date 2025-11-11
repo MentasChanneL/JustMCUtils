@@ -211,6 +211,7 @@ luckywars-game-join = <gray>+ $player
 luckywars-game-leave = <dark_gray>- $player
 luckywars-game-prepare = <yellow>Игра начнётся через <white>$time <yellow>секунд!
 luckywars-game-no_team-message = Помните, каждый сам за себя!
+luckywars-game-message-no_rewards = <#f7f286>Недостаточно игроков, награды за игру недоступны!
 luckywars-game-start = <#FFCF00><font:luckywars:icons>b<font:default> <yellow>Игра началась! <#FFCF00><font:luckywars:icons>b
 luckywars-game-start-subtitle = <red>Победитель только один!
 luckywars-game-no_players = <#f7f286>Недостаточно игроков для начала!
