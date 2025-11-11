@@ -191,13 +191,14 @@ luckywars-item-drink_me = <font:luckywars:name_rare>&+[ВЫПЕЙ МЕНЯ&+]
 
 luckywars-message-welcome [
     <white>
-    <bold><blue>Just<red>MC <reset><dark_gray>⁎ <yellow>Lucky<gold>Wars
+    <bold><blue>Just<red>MC <reset><dark_gray>⁎ <yellow>LuckyWars
     <gray><italic>Безудержно абсурдные сражения
     <white>
     <click:open_url:https://justmc.io><hover:show_text:Нажимай!><gray>»◦ <white><bold>Сайт<bold:false> <dark_gray>› <aqua>justmc.io <dark_gray>← нажми
     <click:open_url:https://discord.justmc.io><hover:show_text:Нажимай!><gray>»◦ <white><bold>Discord<bold:false> <dark_gray>› <aqua>discord.justmc.io <dark_gray>← нажми
     <click:open_url:https://t.me/justmc_news><hover:show_text:Нажимай!><gray>»◦ <white><bold>Telegram<bold:false> <dark_gray>› <aqua>t.me/justmc_news <dark_gray>← нажми
     <click:open_url:https://vk.com/just_community><hover:show_text:Нажимай!><gray>»◦ <white><bold>ВКонтакте<bold:false> <dark_gray>› <aqua>vk.com/just_community <dark_gray>← нажми
+    <white>
 ]
 
 luckywars-feature-ufo-warn = <yellow>⚠ Критическая высота! ⚠
