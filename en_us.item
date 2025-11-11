@@ -192,7 +192,7 @@ luckywars-item-drink_me = <font:luckywars:name_rare>&+[DRINK ME&+]
 
 luckywars-message-welcome [
     <bold><blue>Just<red>MC <reset><dark_gray>⁎ <yellow>L<gold>ucky<yellow>W<gold>ars
-    <gray><italic>Безудержно абсурдные сражения
+    <gray><italic>Absurdly chaotic combat
     <click:open_url:https://justmc.io><hover:show_text:Click me!><gray>»◦ <white><bold>Site<bold:false> <dark_gray>› <aqua>justmc.io <dark_gray>← click here
     <click:open_url:https://discord.justmc.io><hover:show_text:Click me!><gray>»◦ <white><bold>Discord<bold:false> <dark_gray>› <aqua>discord.justmc.io <dark_gray>← click here
     <click:open_url:https://t.me/justmc_news><hover:show_text:Click me!><gray>»◦ <white><bold>Telegram<bold:false> <dark_gray>› <aqua>t.me/justmc_news <dark_gray>← click here
