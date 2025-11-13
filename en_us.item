@@ -195,6 +195,12 @@ luckywars-item-lore-money [
  <font:luckywars:lore_border>1+<font:luckywars:lore>&+YOU CAN USE IT&+<font:luckywars:lore_border>0
  <font:luckywars:lore_border>&+C--------------&+++D
 ]
+luckywars-item-block-wind_tnt = <font:luckywars:name_usaly>&+[VORTEX CONCENTRATE&+]
+luckywars-item-lore-block-wind_tnt [ 
+    <font:luckywars:lore_border>&+A_______________&+++B
+    <font:luckywars:lore_border>1+<font:luckywars:lore>&+HURRICANE FORCE&+<font:luckywars:lore_border>0
+    <font:luckywars:lore_border>&+C---------------&+++D
+]
 
 luckywars-message-welcome [
     <white>

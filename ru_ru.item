@@ -121,11 +121,9 @@ luckywars-item-lore-kunai [
 ]
 luckywars-item-long_bow = <font:luckywars:name_rare>&+[ДЛИННЫЙ ЛУК&+]
 luckywars-item-lore-long_bow [
- <font:luckywars:lore_border>&+A________________________+&+++B
- <font:luckywars:lore_border>1+<font:luckywars:lore>&+ПО ЛБУ - СТУК.          &+<font:luckywars:lore_border>0
- <font:luckywars:lore_border>1+<font:luckywars:lore>&+ДА ЕГО ЕЩЕ ИСПОЛЬЗОВАЛИ&+<font:luckywars:lore_border>0
-  <font:luckywars:lore_border>1+<font:luckywars:lore>&+ДОПОТОПНЫЕ СНАЙПЕРЫ!    &++++<font:luckywars:lore_border>0
- <font:luckywars:lore_border>&+C------------------------+&+++D
+ <font:luckywars:lore_border>&+A______________+&+++B
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ПО ЛБУ - СТУК &+++++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>&+C--------------+&+++D
 ]
 luckywars-item-millidos = <font:luckywars:name_rare>&+[МЕЧ МИЛЛИДОСА&+]
 luckywars-item-lore-millidos [
@@ -193,6 +191,12 @@ luckywars-item-lore-money [
  <font:luckywars:lore_border>&+A__________________&++B
  <font:luckywars:lore_border>1+<font:luckywars:lore>&+МОЖНО ИСПОЛЬЗОВАТЬ&++<font:luckywars:lore_border>0
  <font:luckywars:lore_border>&+C------------------&++D
+]
+luckywars-item-block-wind_tnt = <font:luckywars:name_usaly>&+[ВИХРЕВОЙ КОНЦЕНТРАТ&+]
+luckywars-item-lore-block-wind_tnt [
+    <font:luckywars:lore_border>&+A______________&+B
+    <font:luckywars:lore_border>1+<font:luckywars:lore>&+УРАГАННАЯ СИЛА&+<font:luckywars:lore_border>0
+    <font:luckywars:lore_border>&+C--------------&+D
 ]
 
 luckywars-message-welcome [
