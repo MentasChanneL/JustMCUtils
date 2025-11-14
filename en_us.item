@@ -242,6 +242,7 @@ luckywars-game-death-title = <#FF2200>☠ <red>Defeat <#FF2200>☠
 luckywars-game-death-subtitle = <#FFAA00>You were killed by $killer
 luckywars-game-victory = <#FFEF00><font:luckywars:icons>a<font:default> <yellow>Victory <#FFEF00><font:luckywars:icons>a
 luckywars-death-stats = Stats: <yellow>$placest <white>place, <red>$kills <white>kills
+luckywars-death-info = <#FF700A>You lose!<#FFB656> Use <#FF9000>/play<#FFB656> to start a new match or <#FF9000>/s<#FFB656> to teleport to spawn.
 luckywars-top-top = <yellow>┌─ ʟᴜᴄᴋʏ ᴡᴀʀꜱ
 luckywars-top-element = <yellow>│<$color> #$placest <white>$player [<red>$kills 🗡<white>]
 luckywars-top-bottom = <yellow>└────────────
@@ -324,7 +325,7 @@ luckywars-achievement-toad_trades-lore [
 ]
 
 luckywars-achievement-cold_revenge-name = <yellow>Cold revenge
-luckywars-achievement-cold_revenge-title = <font:luckywars:name_legend>&+[COLD REVENGEЬ&+]
+luckywars-achievement-cold_revenge-title = <font:luckywars:name_legend>&+[COLD REVENGE&+]
 luckywars-achievement-cold_revenge-lore [
     <white>
     <white>∙ Kill the Evil Snowman with the <yellow>Snow Cannon<white>.

@@ -239,6 +239,7 @@ luckywars-game-death-title = <#FF2200>☠ <red>Поражение <#FF2200>☠
 luckywars-game-death-subtitle = <#FFAA00>Вас убил $killer
 luckywars-game-victory = <#FFEF00><font:luckywars:icons>a<font:default> <yellow>Победа <#FFEF00><font:luckywars:icons>a
 luckywars-death-stats = Статистика: <yellow>$place <white>место, <red>$kills <white>убийств
+luckywars-death-info = <#FF700A>Вы проиграли!<#FFB656> Используйте <#FF9000>/play<#FFB656>, чтобы начать новый подбор игры или <#FF9000>/s<#FFB656>, чтобы переместиться на спавн.
 luckywars-top-top = <yellow>┌─ ʟᴜᴄᴋʏ ᴡᴀʀꜱ
 luckywars-top-element = <yellow>│<$color> #$place <white>$player [<red>$kills 🗡<white>]
 luckywars-top-bottom = <yellow>└────────────
