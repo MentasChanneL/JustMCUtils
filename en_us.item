@@ -361,7 +361,7 @@ luckywars-achievement-sapper-lore [
 ]
 
 luckywars-achievement-open_cases-name = <yellow>Tester of Fortune
-luckywars-achievement-open_cases-title = <font:luckywars:name_legend>&+[Tester of Fortune&+]
+luckywars-achievement-open_cases-title = <font:luckywars:name_legend>&+[TESTER OF FORTUNE&+]
 luckywars-achievement-open_cases-lore [
 <white>
 <white>∙ Open any <yellow>5<white> cases.
@@ -381,7 +381,7 @@ luckywars-achievement-millidos-title = <font:luckywars:name_legend>&+[ONE PUNCH 
 luckywars-achievement-millidos-lore [
 <white>
 <white>∙ Deal over <yellow>100<white> damage to a player
-<white> per hit with the <yellow>Sword of Millidos<white>.
+<white>  per hit with the <yellow>Sword of Millidos<white>.
 <white>
 ]
 
@@ -390,7 +390,7 @@ luckywars-achievement-pizza_plain-title = <font:luckywars:name_legend>&+[PIZZALE
 luckywars-achievement-pizza_plain-lore [
 <white>
 <white>∙ Catch <yellow>15<white> players
-<white> with the <yellow>Jumping Pizza<white>.
+<white>  with the <yellow>Instoppable Pizza<white>.
 <white>
 ]
 
@@ -399,7 +399,7 @@ luckywars-achievement-ufo_destroyer-title = <font:luckywars:name_legend>&+[NO FL
 luckywars-achievement-ufo_destroyer-lore [
 <white>
 <white>∙ Shoot down the <yellow>UFO<white> controlled by
-<white> another player.
+<white>  another player.
 <white>
 ]
 
@@ -407,8 +407,8 @@ luckywars-achievement-hot_combo-name = <yellow>Hot Combo
 luckywars-achievement-hot_combo-title = <font:luckywars:name_legend>&+[HOT COMBO&+]
 luckywars-achievement-hot_combo-lore [
 <white>
-<white>∙ Burn another player in <yellow>lava<white>,
-<white> while they are under the effect of <yellow>Vulnerability<white>.
+<white>∙ Burn another player in <yellow>lava<white>, while they
+<white>  are under the effect of <yellow>Vulnerability<white>.
 <white>
 ]
 
