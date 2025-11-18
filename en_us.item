@@ -360,6 +360,66 @@ luckywars-achievement-sapper-lore [
     <white>
 ]
 
+luckywars-achievement-open_cases-name = <yellow>Tester of Fortune
+luckywars-achievement-open_cases-title = <font:luckywars:name_legend>&+[Tester of Fortune&+]
+luckywars-achievement-open_cases-lore [
+<white>
+<white>∙ Open any <yellow>5<white> cases.
+<white>
+]
+
+luckywars-achievement-victory_series-name = <yellow>Victorious
+luckywars-achievement-victory_series-title = <font:luckywars:name_legend>&+[VICTORIAL&+]
+luckywars-achievement-victory_series-lore [
+<white>
+<white>∙ Win <yellow>3<white> times in a row.
+<white>
+]
+
+luckywars-achievement-millidos-name = <yellow>One-Punch Man
+luckywars-achievement-millidos-title = <font:luckywars:name_legend>&+[ONE PUNCH MAN&+]
+luckywars-achievement-millidos-lore [
+<white>
+<white>∙ Deal over <yellow>100<white> damage to a player
+<white> per hit with the <yellow>Sword of Millidos<white>.
+<white>
+]
+
+luckywars-achievement-pizza_plain-name = <yellow>Pizzalette
+luckywars-achievement-pizza_plain-title = <font:luckywars:name_legend>&+[PIZZALETTE&+]
+luckywars-achievement-pizza_plain-lore [
+<white>
+<white>∙ Catch <yellow>15<white> players
+<white> with the <yellow>Jumping Pizza<white>.
+<white>
+]
+
+luckywars-achievement-ufo_destroyer-name = <yellow>No-Fly Zone
+luckywars-achievement-ufo_destroyer-title = <font:luckywars:name_legend>&+[NO FLY ZONE&+]
+luckywars-achievement-ufo_destroyer-lore [
+<white>
+<white>∙ Shoot down the <yellow>UFO<white> controlled by
+<white> another player.
+<white>
+]
+
+luckywars-achievement-hot_combo-name = <yellow>Hot Combo
+luckywars-achievement-hot_combo-title = <font:luckywars:name_legend>&+[HOT COMBO&+]
+luckywars-achievement-hot_combo-lore [
+<white>
+<white>∙ Burn another player in <yellow>lava<white>,
+<white> while they are under the effect of <yellow>Vulnerability<white>.
+<white>
+]
+
+luckywars-achievement-to_stars-name = <yellow>To the Stars
+luckywars-achievement-to_stars-title = <font:luckywars:name_legend>&+[TO THE STARS&+]
+luckywars-achievement-to_stars-lore [
+<white>
+<white>∙ Climb to a height of <yellow>10,000<white> blocks.
+<white>
+]
+
 luckywars-commands-no_money = <red>Not enough funds!
 luckywars-commands-temporarily_unavailable = <red>Function temporarily unavailable...
 luckywars-commands-cd = <#f7f286>Please wait a moment.

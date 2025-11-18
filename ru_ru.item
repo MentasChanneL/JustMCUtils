@@ -358,6 +358,66 @@ luckywars-achievement-sapper-lore [
     <white>
 ]
 
+luckywars-achievement-open_cases-name = <yellow>Испытатель удачи
+luckywars-achievement-open_cases-title = <font:luckywars:name_legend>&+[ИСПЫТАТЕЛЬ УДАЧИ&+]
+luckywars-achievement-open_cases-lore [
+    <white>
+    <white>∙ Откройте <yellow>5<white> любых кесов.
+    <white>
+]
+
+luckywars-achievement-victory_series-name = <yellow>Победоносец
+luckywars-achievement-victory_series-title = <font:luckywars:name_legend>&+[ПОБЕДОНОСЕЦ&+]
+luckywars-achievement-victory_series-lore [
+    <white>
+    <white>∙ Победите <yellow>3<white> раза подряд.
+    <white>
+]
+
+luckywars-achievement-millidos-name = <yellow>Ванпанчмен
+luckywars-achievement-millidos-title = <font:luckywars:name_legend>&+[ВАНПАНЧМЕН&+]
+luckywars-achievement-millidos-lore [
+    <white>
+    <white>∙ Нанесите игроку свыше <yellow>100<white> урона
+    <white>  за удар с помощью <yellow>Меча Миллидоса<white>.
+    <white>
+]
+
+luckywars-achievement-pizza_plain-name = <yellow>Пиццалет
+luckywars-achievement-pizza_plain-title = <font:luckywars:name_legend>&+[ПИЦЦАЛЕТ&+]
+luckywars-achievement-pizza_plain-lore [
+    <white>
+    <white>∙ Поймате <yellow>15<white> игроков
+    <white>  с помощью <yellow>Прыгающей пиццы<white>.
+    <white>
+]
+
+luckywars-achievement-ufo_destroyer-name = <yellow>Бесполетная зона
+luckywars-achievement-ufo_destroyer-title = <font:luckywars:name_legend>&+[БЕСПОЛЕТНАЯ ЗОНА&+]
+luckywars-achievement-ufo_destroyer-lore [
+    <white>
+    <white>∙ Сбейте <yellow>НЛО<white>, которым
+    <white>  управляет другой игрок.
+    <white>
+]
+
+luckywars-achievement-hot_combo-name = <yellow>Горячее комбо
+luckywars-achievement-hot_combo-title = <font:luckywars:name_legend>&+[ГОРЯЧЕЕ КОМБО&+]
+luckywars-achievement-hot_combo-lore [
+    <white>
+    <white>∙ Сожгите другого игрока в <yellow>лаве<white>,
+    <white>  пока он под эффектом <yellow>Уязвимости<white>.
+    <white>
+]
+
+luckywars-achievement-to_stars-name = <yellow>К звездам
+luckywars-achievement-to_stars-title = <font:luckywars:name_legend>&+[К ЗВЕЗДАМ&+]
+luckywars-achievement-to_stars-lore [
+    <white>
+    <white>∙ Поднимитесь на высоту <yellow>10 000<white> блоков.
+    <white>
+]
+
 luckywars-commands-no_money = <red>Недостаточно средств!
 luckywars-commands-temporarily_unavailable = <red>Функция временно не доступна...
 luckywars-commands-cd = <#f7f286>Пожалуйста, немного подождите.
