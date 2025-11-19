@@ -414,7 +414,7 @@ luckywars-achievement-to_stars-name = <yellow>К звездам
 luckywars-achievement-to_stars-title = <font:luckywars:name_legend>&+[К ЗВЕЗДАМ&+]
 luckywars-achievement-to_stars-lore [
     <white>
-    <white>∙ Поднимитесь на высоту <yellow>10,000<white> блоков.
+    <white>∙ Поднимитесь на высоту <yellow>2,000<white> блоков.
     <white>
 ]
 
