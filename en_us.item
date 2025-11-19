@@ -334,7 +334,7 @@ luckywars-achievement-cold_revenge-lore [
 ]
 
 luckywars-achievement-boomerang_thief-name = <yellow>Lucky throw
-luckywars-achievement-boomerang_thief-title = <font:luckywars:name_legend>&+[LUCKy THROW&+]
+luckywars-achievement-boomerang_thief-title = <font:luckywars:name_legend>&+[LUCKY THROW&+]
 luckywars-achievement-boomerang_thief-lore [
     <white>
     <white>∙ Snatch <yellow>10<white> Lucky Blocks
