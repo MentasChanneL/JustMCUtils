@@ -1,0 +1,35 @@
+﻿{
+   "pack": {
+      "pack_format": 13,
+      "description": "§6Lucky Wars",
+      "supported_formats": {
+          "max_inclusive": 99,
+          "min_inclusive": 13
+      }
+   },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "1_21",
+        "formats": {
+          "max_inclusive": 40,
+          "min_inclusive": 34
+        }
+      },
+      {
+        "directory": "1_21_2",
+        "formats": {
+          "max_inclusive": 46,
+          "min_inclusive": 41
+        }
+      },
+      {
+        "directory": "1_21_6",
+        "formats": {
+          "max_inclusive": 999,
+          "min_inclusive": 63
+        }
+      }
+    ]
+  }
+}
