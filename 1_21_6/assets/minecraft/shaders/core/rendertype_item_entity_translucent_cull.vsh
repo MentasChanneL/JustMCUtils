@@ -35,6 +35,8 @@ void main() {
     texCoord1 = UV1;
     texCoord2 = UV2;
 
-    if (Color.r > 0) vertexColor = vec4(1);
+    vec3 rgb = floor(Color.rgb * 255);
+
+    if (rgb.r == 252.0 && rgb.b == 1 && rgb.g == 1) vertexColor = vec4(1);
     lightFace = minecraft_mix_light(Light0_Direction, Light1_Direction, Normal, Color);
 }
