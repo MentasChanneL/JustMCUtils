@@ -439,6 +439,8 @@ luckywars-item-achievements = <font:luckywars:name_rare>&+[ДОСТИЖЕНИЯ&
 luckywars-item-platform_profile = <font:luckywars:name_usaly>&+[ПРОФИЛЬ&+]
 
 luckywars-item-gui-back = <font:luckywars:name_usaly>&+[НАЗАД&+]
+luckywars-item-gui-cancel = <red><font:luckywars:name_usaly>&+[ОТМЕНИТЬ&+]
+luckywars-item-gui-save = <green><font:luckywars:name_usaly>&+[СОХРАНИТЬ&+]
 luckywars-gui-achievements-title = <font:luckywars:gui>_2_______________++&+[ДОСТИЖЕНИЯ&+]
 luckywars-gui-trader_main-title = <font:luckywars:gui>_0_____________+++++&+[УСЛУГИ&+]
 luckywars-gui-trader_main-title_secret = <font:luckywars:gui>_*_________________++++++_&+[TURRON TURRON TURRON&+]
