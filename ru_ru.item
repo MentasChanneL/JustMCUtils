@@ -473,14 +473,11 @@ luckywars-item-gui-trader_main-category-vault = <font:luckywars:name_rare>&+[О�
 luckywars-gui-trader_main-category-unknown = <font:luckywars:name_rare>
 luckywars-gui-kit_start-main-title = <font:luckywars:gui>_3_________________+++++&+[СТАРТОВЫЕ НАБОРЫ&+]
 luckywars-gui-kit_start-editor-title = <font:luckywars:gui>_6___________________+&+[РЕДАКТИРОВАНИЕ НАБОРА&+]
+luckywars-kit_start-select = <white><font:luckywars:name_usaly>&+[ЛКМ&+]<reset><white> - Выбрать набор.
+luckywars-kit_start-edit = <white><font:luckywars:name_usaly>&+[ПКМ&+]<reset><white> - Редактировать набор.
+luckywars-kit_start-selected = <green>✔<bold> ВЫБРАННО
 luckywars-item-kit_start-default = <font:luckywars:name_usaly>&+[СТАНДАРТНЫЙ&+]
-luckywars-item-lore-kit_start-default [
-    <white>
-]
 luckywars-item-kit_start-bomber = <font:luckywars:name_usaly>&+[ПОДРЫВНИК&+]
-luckywars-item-lore-kit_start-bomber [
-    <white>
-]
 
 luckywars-price = Цена: <gold>$price <font:luckywars:icons>h
 luckywars-buy-case-message = <green>Вы приобрели кейс "<reset>$name<reset><green>"!<white> Используйте команду <green>/cases<white> для просмотра или открытия приобретенных кейсов.
