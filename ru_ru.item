@@ -469,7 +469,7 @@ luckywars-gui-trader_values-buy-emeralds-description = <black>Покупка "И
 luckywars-item-gui-trader_main-category-cases = <font:luckywars:name_rare>&+[ПОКУПКА КЕЙСОВ&+]
 luckywars-item-gui-trader_main-category-vault = <font:luckywars:name_rare>&+[ОБМЕН ВАЛЮТ&+]
 luckywars-gui-trader_main-category-unknown = <font:luckywars:name_rare>
-luckywars-gui-kit_start-main-title = <font:luckywars:gui>_2_________________+++++&+[СТАРТОВЫЕ НАБОРЫ&+]
+luckywars-gui-kit_start-main-title = <font:luckywars:gui>_3_________________+++++&+[СТАРТОВЫЕ НАБОРЫ&+]
 luckywars-gui-kit_start-editor-title = <font:luckywars:gui>_6___________________+&+[РЕДАКТИРОВАНИЕ НАБОРА&+]
 luckywars-item-kit_start-default = <font:luckywars:name_usaly>&+[СТАНДАРТНЫЙ&+]
 luckywars-item-lore-kit_start-default [
