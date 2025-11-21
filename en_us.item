@@ -201,6 +201,12 @@ luckywars-item-lore-block-wind_tnt [
     <font:luckywars:lore_border>1+<font:luckywars:lore>&+HURRICANE FORCE&+<font:luckywars:lore_border>0
     <font:luckywars:lore_border>&+C---------------&+++D
 ]
+luckywars-item-spear = <font:luckywars:name_usaly>&+[MOUNTAIN SPEAR&+]
+luckywars-item-lore-spear [
+    <font:luckywars:lore_border>&+A_________________+&+B
+    <font:luckywars:lore_border>1+<font:luckywars:lore>&+HIGHER AND HIGHER!&+<font:luckywars:lore_border>0
+    <font:luckywars:lore_border>&+C-----------------+&+D
+]
 
 luckywars-message-welcome [
     <white>
