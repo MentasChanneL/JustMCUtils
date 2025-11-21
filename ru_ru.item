@@ -231,6 +231,7 @@ luckywars-game-leave = <dark_gray>- $player
 luckywars-game-prepare = <yellow>Игра начнётся через <white>$time <yellow>секунд!
 luckywars-game-no_team-message = <#f7f286>Помните, каждый сам за себя!
 luckywars-game-message-no_rewards = <#f7f286>Недостаточно игроков, награды за игру недоступны!
+luckywars-game-message-rewards = <#f7f286>Награды включены!
 luckywars-game-start = <#FFCF00><font:luckywars:icons>b<font:default> <yellow>Игра началась! <#FFCF00><font:luckywars:icons>b
 luckywars-game-start-subtitle = <red>Победитель только один!
 luckywars-game-no_players = <#f7f286>Недостаточно игроков для начала!
@@ -484,6 +485,9 @@ luckywars-kit_start-edit = <white><font:luckywars:name_usaly>&+[ПКМ&+]<font:d
 luckywars-kit_start-selected = <green>✔<bold> ВЫБРАННО
 luckywars-item-kit_start-default = <font:luckywars:name_usaly>&+[СТАНДАРТНЫЙ&+]
 luckywars-item-kit_start-bomber = <font:luckywars:name_usaly>&+[ПОДРЫВНИК&+]
+luckywars-item-kit_start-fishman = <font:luckywars:name_usaly>&+[РЫБАК&+]
+luckywars-item-kit_start-alchemist = <font:luckywars:name_usaly>&+[АЛХИМИК&+]
+luckywars-item-kit_start-spider = <font:luckywars:name_usaly>&+[ПАУК&+]
 
 luckywars-price = Цена: <gold>$price <font:luckywars:icons>h
 luckywars-buy-case-message = <green>Вы приобрели кейс "<reset>$name<reset><green>"!<white> Используйте команду <green>/cases<white> для просмотра или открытия приобретенных кейсов.

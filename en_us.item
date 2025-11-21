@@ -234,6 +234,7 @@ luckywars-game-leave = <dark_gray>- $player
 luckywars-game-prepare = <yellow>The game will start in <white>$time <yellow>seconds!
 luckywars-game-no_team-message = <#f7f286>Remember, every man for himself!
 luckywars-game-message-no_rewards = <#f7f286>Not enough players! Match rewards are disabled.
+luckywars-game-message-rewards = <#f7f286> Match rewards are enabled!
 luckywars-game-start = <#FFCF00><font:luckywars:icons>b<font:default> <yellow>The game has begun! <#FFCF00><font:luckywars:icons>b
 luckywars-game-start-subtitle = <red>There is only one winner!
 luckywars-game-no_players = <#f7f286>Not enough players to start!
