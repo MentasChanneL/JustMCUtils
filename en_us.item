@@ -501,6 +501,7 @@ luckywars-gui-cases-empty_message = No cases available :(
 luckywars-gui-cases-spectate_message = You are watching <yellow>$player's menu <gray>| <white>Exit menu <dark_gray>⏵ <key:key.sneak>
 luckywars-gui-cases-audience = <gray>Audience: $players
 luckywars-case-suffix-drop_message = <gold>∙ <white>Player $player<reset><white> got suffix $suffix<reset><white> from case!
+luckywars-case-kit_starts-drop_message = <gold>∙ <white>Player $player<reset><white> got kit start $entry<reset><white> from cases!
 
 luckywars-hub_trader-nick = <font:luckywars:name_usaly>&+[ТОРГОВЕЦ&+]
 vluckywars-case-dublicate_message = <#ffbf00>Part of the cost was reimbursed for the duplicate.
