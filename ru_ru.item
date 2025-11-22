@@ -516,7 +516,7 @@ luckywars-item-lore-case-suffixes [
     <#ABC4D6>Вопрос Попрыгун Жезл Перчик
     <#ABC4D6>Жвачка Крюк Клевер
 ]
-luckywars-item-case-suffixes = <font:luckywars:name_rare>&+[КЕЙС СТАРТОВЫХ НАБОРОВ&+]
+luckywars-item-case-kit_starts = <font:luckywars:name_rare>&+[КЕЙС СТАРТОВЫХ НАБОРОВ&+]
 luckywars-item-lore-case-suffixes [
     <white>
     <white>☷ Наполнение кейса:
