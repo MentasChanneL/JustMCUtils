@@ -500,6 +500,7 @@ luckywars-gui-cases-audience = <gray>Зрители: $players
 luckywars-case-suffix-drop_message = <gold>∙ <white>Игроку $player<reset><white> выпал суффикс $suffix<reset><white> из кейса!
 
 luckywars-hub_trader-nick = <font:luckywars:name_usaly>&+[ТОРГОВЕЦ&+]
+luckywars-case-dublicate_message = <#ffbf00>Часть стоимости возмещена за дубликат.
 luckywars-item-case-suffixes = <font:luckywars:name_rare>&+[СУФФИКСНЫЙ КЕЙС LUCKY WARS&+]
 luckywars-item-lore-case-suffixes [
     <white>
@@ -514,5 +515,15 @@ luckywars-item-lore-case-suffixes [
     <#ABC4D6>Невезение Бумеранг Метеорит
     <#ABC4D6>Вопрос Попрыгун Жезл Перчик
     <#ABC4D6>Жвачка Крюк Клевер
+]
+luckywars-item-case-suffixes = <font:luckywars:name_rare>&+[КЕЙС СТАРТОВЫХ НАБОРОВ&+]
+luckywars-item-lore-case-suffixes [
+    <white>
+    <white>☷ Наполнение кейса:
+    <white>
+    <yellow>Набор Рыбака
+    <green>Набор Подрывника
+    <#ABC4D6>Набор Паука
+    <#ABC4D6>Набор Алхимика
 ]
 end

@@ -492,6 +492,7 @@ luckywars-gui-cases-audience = <gray>Audience: $players
 luckywars-case-suffix-drop_message = <gold>∙ <white>Player $player<reset><white> got suffix $suffix<reset><white> from case!
 
 luckywars-hub_trader-nick = <font:luckywars:name_usaly>&+[ТОРГОВЕЦ&+]
+vluckywars-case-dublicate_message = <#ffbf00>Part of the cost was reimbursed for the duplicate.
 luckywars-item-case-suffixes = <font:luckywars:name_rare>&+[LUCKY WARS SUFFIX CASE&+]
 luckywars-item-lore-case-suffixes [
     <white>
