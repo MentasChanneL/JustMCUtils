@@ -480,6 +480,17 @@ luckywars-gui-trader_values-buy-emeralds-description = <black>Buy "Emeralds" in 
 luckywars-item-gui-trader_main-category-cases = <font:luckywars:name_rare>&+[BUY CASES&+]
 luckywars-item-gui-trader_main-category-vault = <font:luckywars:name_rare>&+[EXCHANGE CURRENCY&+]
 luckywars-gui-trader_main-category-unknown = <font:luckywars:name_rare>
+luckywars-gui-kit_start-main-title = <font:luckywars:gui>_3______________+++++&+[KIT START&+]
+luckywars-gui-kit_start-editor-title = <font:luckywars:gui>_6_________________++++&+[KIT START EDITING&+]
+luckywars-kit_start-select = <white><font:luckywars:name_usaly>&+[LMB&+]<font:default> - Select kit.
+luckywars-kit_start-edit = <white><font:luckywars:name_usaly>&+[RMB&+]<font:default> - Edit kit.
+luckywars-kit_start-selected = <green>✔<bold> SELECTED
+luckywars-item-kit_start-default = <font:luckywars:name_usaly>&+[DEFAULT&+]
+luckywars-item-kit_start-bomber = <font:luckywars:name_usaly>&+[DEMOMAN&+]
+luckywars-item-kit_start-fishman = <font:luckywars:name_usaly>&+[FISHERMAN&+]
+luckywars-item-kit_start-alchemist = <font:luckywars:name_usaly>&+[ALCHEMIST&+]
+luckywars-item-kit_start-spider = <font:luckywars:name_usaly>&+[SPIDER&+]
+
 
 luckywars-price = Price: <gold>$price <font:luckywars:icons>h
 luckywars-buy-case-message = <green>You purchased a case "<reset>$name<reset><green>"!<white> Use the <green>/cases<white> command to view or open purchased cases.
