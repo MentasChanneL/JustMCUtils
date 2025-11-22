@@ -1,5 +1,6 @@
 luckywars-item-luckyblock = <yellow>Lucky block
 luckywars-item-game_queue = <font:luckywars:name_rare>&+[JOIN GAME&+]
+luckywars-item-kitstart = <font:luckywars:name_rare>&+[KIT START&+]
 luckywars-item-air_bridge = <font:luckywars:name_usaly>&+[MIGRATORY BRIDGE&+]
 luckywars-item-lore-air_bridge [
  <font:luckywars:lore_border>&+A_____________________+++_&+B
