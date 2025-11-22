@@ -517,7 +517,7 @@ luckywars-item-lore-case-suffixes [
     <#ABC4D6>Жвачка Крюк Клевер
 ]
 luckywars-item-case-kit_starts = <font:luckywars:name_rare>&+[КЕЙС СТАРТОВЫХ НАБОРОВ&+]
-luckywars-item-lore-case-suffixes [
+luckywars-item-lore-case-kit_starts [
     <white>
     <white>☷ Наполнение кейса:
     <white>
