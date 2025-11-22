@@ -521,4 +521,14 @@ luckywars-item-lore-case-suffixes [
     <#ABC4D6>Вопрос Попрыгун Жезл Перчик
     <#ABC4D6>Жвачка Крюк Клевер
 ]
+luckywars-item-case-kit_starts = <font:luckywars:name_rare>&+[KIT START CASE&+]
+luckywars-item-lore-case-kit_starts [
+    <white>
+    <white>☷ Case contents:
+    <white>
+    <yellow>Fisherman kit
+    <green>Demoman kit
+    <#ABC4D6>Spider kit
+    <#ABC4D6>Alchemist kit
+]
 end
