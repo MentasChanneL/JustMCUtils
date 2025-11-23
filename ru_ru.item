@@ -498,7 +498,7 @@ luckywars-gui-cases-leave_message = Выйти из меню <dark_gray>⏵ <key
 luckywars-gui-cases-empty_message = Нет доступных кейсов :(
 luckywars-gui-cases-spectate_message = Вы наблюдаете меню <yellow>$player <gray>| <white>Выйти из меню <dark_gray>⏵ <key:key.sneak>
 luckywars-gui-cases-audience = <gray>Зрители: $players
-luckywars-case-suffix-drop_message = <gold>∙ <white>Игроку $player<reset><white> выпал суффикс $entry<reset><white> из кейса!
+luckywars-case-suffixes-drop_message = <gold>∙ <white>Игроку $player<reset><white> выпал суффикс $entry<reset><white> из кейса!
 luckywars-case-kit_starts-drop_message = <gold>∙ <white>Игроку $player<reset><white> выпал стартовый набор $entry<reset><white> из кейса!
 
 luckywars-hub_trader-nick = <font:luckywars:name_usaly>&+[ТОРГОВЕЦ&+]
