@@ -303,6 +303,7 @@ luckywars-achievement-reward = <#FFEF00><font:luckywars:icons>a<font:default> <g
 luckywars-achievement-completed = <green>✔<bold> COMPLETED
 luckywars-achievement-not_completed = <dark_gray>❌<bold> NOT COMPLETED
 luckywars-achievement-completed_message = <green>✔ You have completed the "$name" achievement!
+luckywars-achievement-completed_announcement = $player<reset><white> earned the achievement "<yellow>$achievement<white>"!
 luckywars-achievement-progress-toast [
     <yellow>$name
     <white>Progress: <yellow>$progress
