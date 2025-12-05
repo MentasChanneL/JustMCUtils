@@ -206,6 +206,13 @@ luckywars-item-lore-spear [
     <font:luckywars:lore_border>&+C----------------+&+D
 ]
 
+luckywars-item-hats-santa = <font:luckywars:name_usaly><aqua>&+[НОВОГОДНИЙ КОЛПАК&+]
+luckywars-item-lore-hats-santa [
+    <font:luckywars:lore_border>&+A_________++&+B
+    <font:luckywars:lore_border>1+<font:luckywars:lore>&+ХО ХО ХО!&+<font:luckywars:lore_border>0
+    <font:luckywars:lore_border>&+C---------++&+D
+]
+
 luckywars-message-welcome [
     <white>
     <bold><blue>Just<red>MC <reset><dark_gray>⁎ <yellow>LuckyWars
@@ -490,6 +497,7 @@ luckywars-item-kit_start-bomber = <font:luckywars:name_usaly>&+[ПОДРЫВНИ
 luckywars-item-kit_start-fishman = <font:luckywars:name_usaly>&+[РЫБАК&+]
 luckywars-item-kit_start-alchemist = <font:luckywars:name_usaly>&+[АЛХИМИК&+]
 luckywars-item-kit_start-spider = <font:luckywars:name_usaly>&+[ПАУК&+]
+luckywars-item-kit_start-winter = <font:luckywars:name_usaly>&+[ЗИМА&+]
 
 luckywars-price = Цена: <gold>$price <font:luckywars:icons>h
 luckywars-buy-case-message = <green>Вы приобрели кейс "<reset>$name<reset><green>"!<white> Используйте команду <green>/cases<white> для просмотра или открытия приобретенных кейсов.
@@ -524,6 +532,7 @@ luckywars-item-lore-case-kit_starts [
     <white>
     <white>☷ Наполнение кейса:
     <white>
+    <red>Зимний набор
     <yellow>Набор Рыбака
     <green>Набор Подрывника
     <#ABC4D6>Набор Паука

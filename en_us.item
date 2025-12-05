@@ -209,6 +209,13 @@ luckywars-item-lore-spear [
     <font:luckywars:lore_border>&+C-----------------+&+D
 ]
 
+luckywars-item-hats-santa = <font:luckywars:name_usaly><aqua>&+[CHRISTMAS CAP&+]
+luckywars-item-lore-hats-santa [
+    <font:luckywars:lore_border>&+A_________++&+B
+    <font:luckywars:lore_border>1+<font:luckywars:lore>&+HO HO HO!&+<font:luckywars:lore_border>0
+    <font:luckywars:lore_border>&+C---------++&+D
+]
+
 luckywars-message-welcome [
     <white>
     <bold><blue>Just<red>MC <reset><dark_gray>⁎ <yellow>LuckyWars
@@ -492,6 +499,7 @@ luckywars-item-kit_start-bomber = <font:luckywars:name_usaly>&+[DEMOMAN&+]
 luckywars-item-kit_start-fishman = <font:luckywars:name_usaly>&+[FISHERMAN&+]
 luckywars-item-kit_start-alchemist = <font:luckywars:name_usaly>&+[ALCHEMIST&+]
 luckywars-item-kit_start-spider = <font:luckywars:name_usaly>&+[SPIDER&+]
+luckywars-item-kit_start-winter = <font:luckywars:name_usaly>&+[WINTER&+]
 
 
 luckywars-price = Price: <gold>$price <font:luckywars:icons>h
@@ -527,6 +535,7 @@ luckywars-item-lore-case-kit_starts [
     <white>
     <white>☷ Case contents:
     <white>
+    <red>Winter kit
     <yellow>Fisherman kit
     <green>Demoman kit
     <#ABC4D6>Spider kit
