@@ -193,18 +193,21 @@ luckywars-item-lore-money [
  <font:luckywars:lore_border>1+<font:luckywars:lore>&+МОЖНО ИСПОЛЬЗОВАТЬ&++<font:luckywars:lore_border>0
  <font:luckywars:lore_border>&+C------------------&++D
 ]
-luckywars-item-block-wind_tnt = <font:luckywars:name_usaly>&+[ВИХРЕВОЙ КОНЦЕНТРАТ&+]
-luckywars-item-lore-block-wind_tnt [
-    <font:luckywars:lore_border>&+A______________&+B
-    <font:luckywars:lore_border>1+<font:luckywars:lore>&+УРАГАННАЯ СИЛА&+<font:luckywars:lore_border>0
-    <font:luckywars:lore_border>&+C--------------&+D
-]
 luckywars-item-spear = <font:luckywars:name_usaly>&+[ГОРНОЕ КОПЬЕ&+]
 luckywars-item-lore-spear [
     <font:luckywars:lore_border>&+A________________+&+B
     <font:luckywars:lore_border>1+<font:luckywars:lore>&+ВСЕ ВЫШЕ И ВЫШЕ!&+<font:luckywars:lore_border>0
     <font:luckywars:lore_border>&+C----------------+&+D
 ]
+luckywars-item-glass_sphere = <font:luckywars:name_usaly>&+[СТЕКЛЯННАЯ СФЕРА&+]
+
+luckywars-item-block-wind_tnt = <font:luckywars:name_usaly>&+[ВИХРЕВОЙ КОНЦЕНТРАТ&+]
+luckywars-item-lore-block-wind_tnt [
+    <font:luckywars:lore_border>&+A______________&+B
+    <font:luckywars:lore_border>1+<font:luckywars:lore>&+УРАГАННАЯ СИЛА&+<font:luckywars:lore_border>0
+    <font:luckywars:lore_border>&+C--------------&+D
+]
+
 
 luckywars-item-hats-santa = <font:luckywars:name_usaly><aqua>&+[НОВОГОДНИЙ КОЛПАК&+]
 luckywars-item-lore-hats-santa [
