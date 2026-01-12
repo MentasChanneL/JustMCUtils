@@ -272,7 +272,7 @@ luckywars-stats_board-stat-games-title = <font:luckywars:gui>&+[ВЕТЕРАНЫ
 luckywars-stats_board-stat-toad_trades-title = <font:luckywars:gui>&+[ЛИДЕРЫ ЖАБЬИХ СДЕЛОК&+]
 luckywars-stats_board-stat-lucky_blocks-title = <font:luckywars:gui>&+[ОТКРЫЛИ ЛАКИ БЛОКОВ&+]
 luckywars-stats_board-stat-kills-title = <font:luckywars:gui>&+[САМЫЕ ОТЪЯВЛЕННЫЕ УБИЙЦЫ&+]
-luckywars-stats_board-stat-victories-title = <font:luckywars:gui>&+[ЛИДЕРЫ ПО ПОБЕДАМ&+]
+luckywars-stats_board-stat-victories-title = <font:luckywars:gui>&+[ПОБЕДОНОСЦЫ&+]
 
 luckywars-command-please_wait = <#FFD596>⌚ Пожалуйста немного подождите...
 
