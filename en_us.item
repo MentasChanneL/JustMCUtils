@@ -259,7 +259,7 @@ luckywars-game-death-title = <#FF2200>☠ <red>Defeat <#FF2200>☠
 luckywars-game-death-subtitle = <#FFAA00>You were killed by $killer
 luckywars-game-victory = <#FFEF00><font:luckywars:icons>a<font:default> <yellow>Victory <#FFEF00><font:luckywars:icons>a
 luckywars-death-stats = Stats: <yellow>$placest <white>place, <red>$kills <white>kills
-luckywars-death-info = <#FF700A>You lose!<#FFB656> Use <#FF9000>/play<#FFB656> to start a new match or <#FF9000>/s<#FFB656> to teleport to spawn.
+luckywars-death-info = <#FF700A>You lose!<#FFB656> Use <underlined><#FFF000><click:run_command:'/play'><hover:show_text:'Ready? Click!'>/play<reset><#FFB656> to start a new match or <underlined><#FFF000><click:run_command:'/s'>/s<reset><#FFB656> to move to spawn.
 luckywars-top-top = <yellow>┌─ ʟᴜᴄᴋʏ ᴡᴀʀꜱ
 luckywars-top-element = <yellow>│<$color> #$placest <white>$player [<red>$kills 🗡<white>]
 luckywars-top-bottom = <yellow>└────────────
@@ -291,6 +291,7 @@ luckywars-stats_command_footer = <#AAAAFF>└───────────�
 luckywars-cases_command-hub_required = <red>This command is only available in the hub!
 luckywars-cases_command-scene_required = <red>This player is not in the case opening menu.
 luckywars-command-player_not_found = <red>Player not found!
+luckywars-game_error_message = <br><red>Oops! A technical error occurred. Please report it to the server staff or create an issue on GitLab: <aqua><underlined><click:open_url:'https://ideas.justmc.ru/'>https://ideas.justmc.ru/<reset><red>.<br><br> Message: $message
 luckywars-play_command-scene_required = <red>The server is scheduled to restart; creating new games is not allowed. The server will restart when all games have finished. Active games: <white>$count
 
 luckywars-balance-add_message = <#ffbf00>+$value <font:luckywars:icons>h<font:default>

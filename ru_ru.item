@@ -257,7 +257,7 @@ luckywars-game-death-title = <#FF2200>☠ <red>Поражение <#FF2200>☠
 luckywars-game-death-subtitle = <#FFAA00>Вас убил $killer
 luckywars-game-victory = <#FFEF00><font:luckywars:icons>a<font:default> <yellow>Победа <#FFEF00><font:luckywars:icons>a
 luckywars-death-stats = Статистика: <yellow>$place <white>место, <red>$kills <white>убийств
-luckywars-death-info = <#FF700A>Вы проиграли!<#FFB656> Используйте <#FF9000>/play<#FFB656>, чтобы начать новый подбор игры или <#FF9000>/s<#FFB656>, чтобы переместиться на спавн.
+luckywars-death-info = <#FF700A>Вы проиграли!<#FFB656> Используйте <underlined><#FFF000><click:run_command:'/play'><hover:show_text:'Готов? Жми!'>/play<reset><#FFB656>, чтобы начать новый подбор игры или <underlined><#FFF000><click:run_command:'/s'>/s<reset><#FFB656>, чтобы переместиться на спавн.
 luckywars-top-top = <yellow>┌─ ʟᴜᴄᴋʏ ᴡᴀʀꜱ
 luckywars-top-element = <yellow>│<$color> #$place <white>$player [<red>$kills 🗡<white>]
 luckywars-top-bottom = <yellow>└────────────
@@ -289,6 +289,7 @@ luckywars-stats_command_footer = <#AAAAFF>└───────────�
 luckywars-cases_command-hub_required = <red>Команда доступна только в хабе!
 luckywars-cases_command-scene_required = <red>Этот игрок не находится в меню кейсов.
 luckywars-command-player_not_found = <red>Игрок не найден!
+luckywars-game_error_message = <br><red>Ой-ой! Произошла техническая ошибка. Сообщите о ней персоналу сервера или создайте задачу на GitLab: <aqua><underlined><click:open_url:'https://ideas.justmc.ru/'>https://ideas.justmc.ru/<reset><red>.<br><br> Сообщение: $message
 luckywars-play_command-scene_required = <red>На сервере запланирован рестарт, создание новых игр недопустно. Сервер будет перезагружен, когда все игры завершатся. Активные игры: <white>$count
 
 luckywars-balance-add_message = <#ffbf00>+$value <font:luckywars:icons>h<font:default>
