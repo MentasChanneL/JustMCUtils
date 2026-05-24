@@ -229,6 +229,7 @@ luckywars-message-welcome [
 ]
 
 luckywars-feature-ufo-warn = <yellow>⚠ Критическая высота! ⚠
+luckywars-feature-meteor-warn = $color⚠ Падение метеорита! Найдите укрытие! ⚠
 
 luckywars-game_queue-header = <shadow:#00000000><font:luckywars:icons>3.3.3.3.3.3.3
 luckywars-game_queue-find_players = <shadow:#00000000><white><font:luckywars:game_queue1>Набор игроков...
