@@ -230,6 +230,10 @@ luckywars-message-welcome [
     <white>
 ]
 
+luckywars-feature-event-mage-title = <#A367D3>◇ <#CFADEA>Event <#A367D3>◇
+luckywars-feature-event-mage-subtitle-shimmer = <#F9D4F5>₊­◦ Shimmer Dimension ◦­₊
+luckywars-feature-event-mage-subtitle-lava_rain = <#F9AC68>₊­◦ Lava rain ◦­₊
+luckywars-feature-event-mage-subtitle-flood = <#86CAEF>₊­◦ Flood ◦­₊
 luckywars-feature-ufo-warn = <yellow>⚠ Critical height! ⚠
 luckywars-feature-meteor-warn = $color⚠ Meteor falling! Take cover! ⚠
 

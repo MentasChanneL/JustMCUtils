@@ -228,6 +228,10 @@ luckywars-message-welcome [
     <white>
 ]
 
+luckywars-feature-event-mage-title = <#A367D3>◇ <#CFADEA>Событие <#A367D3>◇
+luckywars-feature-event-mage-subtitle-shimmer = <#F9D4F5>₊­◦ Мерцающее измерение ◦­₊
+luckywars-feature-event-mage-subtitle-lava_rain = <#F9AC68>₊­◦ Лавовый дождь ◦­₊
+luckywars-feature-event-mage-subtitle-flood = <#86CAEF>₊­◦ Потоп ◦­₊
 luckywars-feature-ufo-warn = <yellow>⚠ Критическая высота! ⚠
 luckywars-feature-meteor-warn = $color⚠ Падение метеорита! Найдите укрытие! ⚠
 
