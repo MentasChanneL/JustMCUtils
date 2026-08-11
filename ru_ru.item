@@ -200,6 +200,12 @@ luckywars-item-lore-spear [
     <font:luckywars:lore_border>&+C----------------+&+D
 ]
 luckywars-item-glass_sphere = <font:luckywars:name_usaly>&+[СТЕКЛЯННАЯ СФЕРА&+]
+luckywars-item-bunny_boots = <font:luckywars:name_usaly>&+[ПРЫГУЧИЕ ТЯГИ&+]
+luckywars-item-lore-bunny_boots [
+    <font:luckywars:lore_border>&+A________________+&+B
+    <font:luckywars:lore_border>1+<font:luckywars:lore>&+РАСПРЫЖКА!!&+<font:luckywars:lore_border>0
+    <font:luckywars:lore_border>&+C----------------+&+D
+]
 
 luckywars-item-block-wind_tnt = <font:luckywars:name_usaly>&+[ВИХРЕВОЙ КОНЦЕНТРАТ&+]
 luckywars-item-lore-block-wind_tnt [
@@ -387,7 +393,7 @@ luckywars-achievement-open_cases-name = <yellow>Испытатель удачи
 luckywars-achievement-open_cases-title = <font:luckywars:name_legend>&+[ИСПЫТАТЕЛЬ УДАЧИ&+]
 luckywars-achievement-open_cases-lore [
     <white>
-    <white>∙ Откройте <yellow>5<white> любых кесов.
+    <white>∙ Откройте <yellow>5<white> любых кейсов.
     <white>
 ]
 
