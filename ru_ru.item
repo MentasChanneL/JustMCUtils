@@ -202,9 +202,9 @@ luckywars-item-lore-spear [
 luckywars-item-glass_sphere = <font:luckywars:name_usaly>&+[СТЕКЛЯННАЯ СФЕРА&+]
 luckywars-item-bunny_boots = <font:luckywars:name_usaly>&+[ПРЫГУЧИЕ ТЯГИ&+]
 luckywars-item-lore-bunny_boots [
-    <font:luckywars:lore_border>&+A________________+&+B
-    <font:luckywars:lore_border>1+<font:luckywars:lore>&+РАСПРЫЖКА!!&+<font:luckywars:lore_border>0
-    <font:luckywars:lore_border>&+C----------------+&+D
+    <font:luckywars:lore_border>&+A__________+&+B
+    <font:luckywars:lore_border>1+<font:luckywars:lore>&+РАСПРЫЖКА!!&++<font:luckywars:lore_border>0
+    <font:luckywars:lore_border>&+C----------+&+D
 ]
 
 luckywars-item-block-wind_tnt = <font:luckywars:name_usaly>&+[ВИХРЕВОЙ КОНЦЕНТРАТ&+]

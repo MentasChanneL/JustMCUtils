@@ -205,9 +205,9 @@ luckywars-item-lore-spear [
 ]
 luckywars-item-bunny_boots = <font:luckywars:name_usaly>&+[BOUNCY SPRINGS&+]
 luckywars-item-lore-bunny_boots [
-    <font:luckywars:lore_border>&+A________________+&+B
+    <font:luckywars:lore_border>&+A_________+&+B
     <font:luckywars:lore_border>1+<font:luckywars:lore>&+BUNNYHOP!!&+<font:luckywars:lore_border>0
-    <font:luckywars:lore_border>&+C----------------+&+D
+    <font:luckywars:lore_border>&+C---------+&+D
 ]
 
 luckywars-item-block-wind_tnt = <font:luckywars:name_usaly>&+[VORTEX CONCENTRATE&+]
