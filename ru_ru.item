@@ -286,6 +286,7 @@ luckywars-stats_board-stat-kills-title = <font:luckywars:gui>&+[САМЫЕ ОТ�
 luckywars-stats_board-stat-victories-title = <font:luckywars:gui>&+[ПОБЕДОНОСЦЫ&+]
 
 luckywars-command-please_wait = <#FFD596>⌚ Пожалуйста немного подождите...
+luckywars-command-game_barrier = <red>Команда не доступна во время игры!
 
 luckywars-stats_command_header = <#AAAAFF>┌ ☷ <#C6FFF5>Статистика ⏷
 luckywars-stats_command-play_time = <#AAAAFF>│ ⌚<#C6FFF5> Время игры: <#AAAAFF>$value <#C6FFF5>часов

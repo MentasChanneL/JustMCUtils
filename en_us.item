@@ -288,6 +288,7 @@ luckywars-stats_board-stat-kills-title = <font:luckywars:gui>&+[KILLERS LEADERBO
 luckywars-stats_board-stat-victories-title = <font:luckywars:gui>&+[WINS LEADERBOARD&+]
 
 luckywars-command-please_wait = <#FFD596>⌚ Please wait a moment...
+luckywars-command-game_barrier = <red>The command is unavailable during the game!
 
 luckywars-stats_command_header = <#AAAAFF>┌ ☷ <#C6FFF5>My statistics ⏷
 luckywars-stats_command-play_time = <#AAAAFF>│ ⌚<#C6FFF5> Play Time: <#AAAAFF>$value <#C6FFF5>часов
