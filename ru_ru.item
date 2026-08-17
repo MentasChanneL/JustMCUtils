@@ -18,7 +18,7 @@ luckywars-item-lore-boomerang [
 luckywars-item-chilli = <font:luckywars:name_usaly>&+[ПЕРЧИК&+]
 luckywars-item-lore-chilli [
  <font:luckywars:lore_border>&+A__________________________&++B
- <font:luckywars:lore_border>1+<font:luckywars:lore>&+ВСКУНЫЙ, ПОЛЕЗНЫЙ, НЕМНОГО &++<font:luckywars:lore_border>0
+ <font:luckywars:lore_border>1+<font:luckywars:lore>&+ВКУСНЫЙ, ПОЛЕЗНЫЙ, НЕМНОГО &++<font:luckywars:lore_border>0
  <font:luckywars:lore_border>1+<font:luckywars:lore>&+ЖГУЧИЙ, НО ЭТО ДЛЯ ВКУСА.  &+<font:luckywars:lore_border>0
  <font:luckywars:lore_border>&+C--------------------------&++D
 ]
