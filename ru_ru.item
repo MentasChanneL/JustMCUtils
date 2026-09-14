@@ -208,11 +208,11 @@ luckywars-item-lore-bunny_boots [
 ]
 luckywars-item-katana = <font:luckywars:name_usaly>&+[КАТАНА&+]
 luckywars-item-lore-katana [
-    <font:luckywars:lore_border>&+A_________+&+B
-    <font:luckywars:lore_border>1+<font:luckywars:lore>&+СТИЛЬ САМУРАЯ.    &+<font:luckywars:lore_border>0
-    <font:luckywars:lore_border>1+<font:luckywars:lore>&+                  &+<font:luckywars:lore_border>0
-    <font:luckywars:lore_border>1+<font:luckywars:lore>&+ДЕЛАЙ РЫВКИ НА ПКМ&+<font:luckywars:lore_border>0
-    <font:luckywars:lore_border>&+C---------+&+D
+    <font:luckywars:lore_border>&+A__________________+_+&++B
+    <font:luckywars:lore_border>1+<font:luckywars:lore>&+СТИЛЬ САМУРАЯ.      ++ &++<font:luckywars:lore_border>0
+    <font:luckywars:lore_border>1+<font:luckywars:lore>&+                    +&++<font:luckywars:lore_border>0
+    <font:luckywars:lore_border>1+<font:luckywars:lore>&+ДЕЛАЙ РЫВКИ НА ПКМ  ++&+<font:luckywars:lore_border>+0
+    <font:luckywars:lore_border>&+C-------------------+-&++D
 ]
 luckywars-item-tnt_rabbit = <font:luckywars:name_usaly>&+[ДИНАМИЧЕСКИЙ УШАРИК&+]
 luckywars-item-lore-tnt_rabbit [
@@ -238,22 +238,23 @@ luckywars-item-lore-hats-santa [
     <font:luckywars:lore_border>1+<font:luckywars:lore>&+ХО ХО ХО!&+<font:luckywars:lore_border>0
     <font:luckywars:lore_border>&+C---------++&+D
 ]
-luckywars-item-hats-sun_glasses = <font:luckywars:name_usaly><aqua>&+[КРУТЫЕ ОЧКИ&+]
+luckywars-item-hats-sun_glasses = <font:luckywars:name_rare><white>&+[КРУТЫЕ ОЧКИ&+]
 luckywars-item-lore-hats-sun_glasses [
     <font:luckywars:lore_border>&+A_____________++_+&+B
     <font:luckywars:lore_border>1+<font:luckywars:lore>&+СТО К ХАРИЗМЕ&+<font:luckywars:lore_border>0
     <font:luckywars:lore_border>&+C-------------++-+&+D
 ]
-luckywars-item-wooden_multitool = <font:luckywars:name_usaly><aqua>&+[ДЕРЕВЯННЫЙ МУЛЬТИТУЛ&+]
-luckywars-item-stone_multitool = <font:luckywars:name_usaly><aqua>&+[КАМЕННЫЙ МУЛЬТИТУЛ&+]
-luckywars-item-iron_multitool = <font:luckywars:name_usaly><aqua>&+[ЖЕЛЕЗНЫЙ МУЛЬТИТУЛ&+]
-luckywars-item-diamond_multitool = <font:luckywars:name_usaly><aqua>&+[АЛМАЗНЫЙ МУЛЬТИТУЛ&+]
-luckywars-item-golden_multitool = <font:luckywars:name_usaly><aqua>&+[ЗОЛОТОЙ МУЛЬТИТУЛ&+]
-luckywars-item-netherite_multitool = <font:luckywars:name_usaly><aqua>&+[НЕЗЕРИТОВЫЙ МУЛЬТИТУЛ&+]
-luckywars-item-tomato_multitool = <font:luckywars:name_rare><aqua>&+[ТОМАТНЫЙ МУЛЬТИТУЛ&+]
-luckywars-item-amethyst_multitool = <font:luckywars:name_rare><aqua>&+[АМЕТИСТОВЫЙ МУЛЬТИТУЛ&+]
-luckywars-item-cobweb_ball = <font:luckywars:name_usaly><aqua>&+[ПАУЧИЙ ШАРИК&+]
-luckywars-item-little_stone = <font:luckywars:name_usaly><aqua>&+[КАМУШЕК&+]
+luckywars-item-ninja_hat = <font:luckywars:name_rare><white>&+[МАСКА НИНДЗЯ&+]
+luckywars-item-wooden_multitool = <font:luckywars:name_usaly><white>&+[ДЕРЕВЯННЫЙ МУЛЬТИТУЛ&+]
+luckywars-item-stone_multitool = <font:luckywars:name_usaly><white>&+[КАМЕННЫЙ МУЛЬТИТУЛ&+]
+luckywars-item-iron_multitool = <font:luckywars:name_usaly><white>&+[ЖЕЛЕЗНЫЙ МУЛЬТИТУЛ&+]
+luckywars-item-diamond_multitool = <font:luckywars:name_usaly><white>&+[АЛМАЗНЫЙ МУЛЬТИТУЛ&+]
+luckywars-item-golden_multitool = <font:luckywars:name_usaly><white>&+[ЗОЛОТОЙ МУЛЬТИТУЛ&+]
+luckywars-item-netherite_multitool = <font:luckywars:name_usaly><white>&+[НЕЗЕРИТОВЫЙ МУЛЬТИТУЛ&+]
+luckywars-item-tomato_multitool = <font:luckywars:name_rare><white>&+[ТОМАТНЫЙ МУЛЬТИТУЛ&+]
+luckywars-item-amethyst_multitool = <font:luckywars:name_rare><white>&+[АМЕТИСТОВЫЙ МУЛЬТИТУЛ&+]
+luckywars-item-cobweb_ball = <font:luckywars:name_usaly><white>&+[ПАУЧИЙ ШАРИК&+]
+luckywars-item-little_stone = <font:luckywars:name_usaly><white>&+[КАМУШЕК&+]
 
 
 luckywars-message-welcome [
@@ -288,7 +289,7 @@ luckywars-game-prepare = <yellow>Игра начнётся через <white>$ti
 luckywars-game-no_team-message = <#f7f286>Помните, каждый сам за себя!
 luckywars-game-message-no_rewards = <#f7f286>Недостаточно игроков, награды за игру недоступны!
 luckywars-game-message-rewards = <#f7f286>Награды включены!
-luckywars-game-start = <#FFCF00><sprite:items:'luckywars:item/gui/blade_mirror'> <yellow>Игра началась! <#FFCF00><sprite:items:'luckywars:item/gui/blade'>
+luckywars-game-start = <#FFCF00><shadow:#00000000><sprite:items:'luckywars:item/gui/blade_mirror'><reset> <yellow>Игра началась! <#FFCF00><shadow:#00000000><sprite:items:'luckywars:item/gui/blade'>
 luckywars-game-start-subtitle = <red>Победитель только один!
 luckywars-game-no_players = <#f7f286>Недостаточно игроков для начала!
 luckywars-game-get_ready = <#ee9a62>... Приготовьтесь ...
@@ -553,7 +554,7 @@ luckywars-item-kit_start-alchemist = <font:luckywars:name_usaly>&+[ВОЛШЕБ�
 luckywars-item-kit_start-spider = <font:luckywars:name_usaly>&+[ПАУК&+]
 luckywars-item-kit_start-winter = <font:luckywars:name_usaly>&+[РОЖДЕСТВЕНСКИЙ ВИХРЬ&+]
 luckywars-item-kit_start-slime = <font:luckywars:name_usaly>&+[СЛИЗЕНЬ&+]
-luckywars-item-kit_start-samurai = <font:luckywars:name_usaly>&+[&НИНДЗЯ+]
+luckywars-item-kit_start-samurai = <font:luckywars:name_usaly>&+[НИНДЗЯ&+]
 luckywars-item-kit_start-cool = <font:luckywars:name_usaly>&+[ХАРИЗМА&+]
 
 
