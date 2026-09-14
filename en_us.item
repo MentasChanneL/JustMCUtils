@@ -209,20 +209,55 @@ luckywars-item-lore-bunny_boots [
     <font:luckywars:lore_border>1+<font:luckywars:lore>&+BUNNYHOP!!&+<font:luckywars:lore_border>0
     <font:luckywars:lore_border>&+C---------+&+D
 ]
-
+luckywars-item-katana = <font:luckywars:name_usaly>&+[KATANA&+]
+luckywars-item-lore-katana [
+    <font:luckywars:lore_border>&+A_________+&+B
+    <font:luckywars:lore_border>1+<font:luckywars:lore>&+SAMURAI STYLE.         &+<font:luckywars:lore_border>0
+    <font:luckywars:lore_border>1+<font:luckywars:lore>&+                       &+<font:luckywars:lore_border>0
+    <font:luckywars:lore_border>1+<font:luckywars:lore>&+PERFORM DASHES WITH RMB&+<font:luckywars:lore_border>0
+    <font:luckywars:lore_border>&+C---------+&+D
+]
+luckywars-item-tnt_rabbit = <font:luckywars:name_usaly>&+[DYNAMI EAR&+]
+luckywars-item-lore-tnt_rabbit [
+    <font:luckywars:lore_border>&+A______++____+&+B
+    <font:luckywars:lore_border>1+<font:luckywars:lore>&+BACK OFF!!!&+<font:luckywars:lore_border>0
+    <font:luckywars:lore_border>&+C------++----+&+D
+]
+luckywars-item-slingshot = <font:luckywars:name_usaly>&+[SLINGSHOT&+]
+luckywars-item-lore-slingshot [
+    <font:luckywars:lore_border>&+A__________+++_______+&+B
+    <font:luckywars:lore_border>1+<font:luckywars:lore>&+SHOOTS ANY ITEMS&+<font:luckywars:lore_border>0
+    <font:luckywars:lore_border>&+C----------+++-------+&+D
+]
 luckywars-item-block-wind_tnt = <font:luckywars:name_usaly>&+[VORTEX CONCENTRATE&+]
 luckywars-item-lore-block-wind_tnt [ 
     <font:luckywars:lore_border>&+A_______________&+++B
     <font:luckywars:lore_border>1+<font:luckywars:lore>&+HURRICANE FORCE&+<font:luckywars:lore_border>0
     <font:luckywars:lore_border>&+C---------------&+++D
 ]
-
 luckywars-item-hats-santa = <font:luckywars:name_usaly><aqua>&+[CHRISTMAS CAP&+]
 luckywars-item-lore-hats-santa [
     <font:luckywars:lore_border>&+A_________++&+B
     <font:luckywars:lore_border>1+<font:luckywars:lore>&+HO HO HO!&+<font:luckywars:lore_border>0
     <font:luckywars:lore_border>&+C---------++&+D
 ]
+luckywars-item-hats-sun_glasses = <font:luckywars:name_usaly><aqua>&+[SWAG GLASSES&+]
+luckywars-item-lore-hats-sun_glasses [
+    <font:luckywars:lore_border>&+A________+&+B
+    <font:luckywars:lore_border>1+<font:luckywars:lore>&+CHARISMA&+<font:luckywars:lore_border>0
+    <font:luckywars:lore_border>&+C--------+&+D
+]
+luckywars-item-wooden_multitool = <font:luckywars:name_usaly><aqua>&+[WOODEN MULTITOOL&+]
+luckywars-item-stone_multitool = <font:luckywars:name_usaly><aqua>&+[STONE MULTITOOL&+]
+luckywars-item-iron_multitool = <font:luckywars:name_usaly><aqua>&+[IRON MULTITOOL&+]
+luckywars-item-diamond_multitool = <font:luckywars:name_usaly><aqua>&+[DIAMOND MULTITOOL&+]
+luckywars-item-golden_multitool = <font:luckywars:name_usaly><aqua>&+[GOLDEN MULTITOOL&+]
+luckywars-item-netherite_multitool = <font:luckywars:name_usaly><aqua>&+[NETHERITE MULTITOOL&+]
+luckywars-item-tomato_multitool = <font:luckywars:name_rare><aqua>&+[TOMATO MULTITOOL&+]
+luckywars-item-amethyst_multitool = <font:luckywars:name_rare><aqua>&+[AMETHYST MULTITOOL&+]
+luckywars-item-cobweb_ball = <font:luckywars:name_usaly><aqua>&+[WEB BALL&+]
+luckywars-item-little_stone = <font:luckywars:name_usaly><aqua>&+[LITTLE STONE&+]
+
 
 luckywars-message-welcome [
     <white>
@@ -238,7 +273,7 @@ luckywars-message-welcome [
 
 luckywars-feature-event-mage-title = <#A367D3>◇ <#CFADEA>Event <#A367D3>◇
 luckywars-feature-event-mage-subtitle-shimmer = <#F9D4F5>₊­◦ Shimmer Dimension ◦­₊
-luckywars-feature-event-mage-subtitle-lava_sky = <#F9AC68>₊­◦ Lava sky ◦­₊
+luckywars-feature-event-mage-subtitle-lava_sky = <#F9AC68>₊­◦ Lavafall ◦­₊
 luckywars-feature-event-mage-subtitle-flood = <#86CAEF>₊­◦ Flood ◦­₊
 luckywars-feature-ufo-warn = <yellow>⚠ Critical height! ⚠
 luckywars-feature-meteor-warn = $color⚠ Meteor falling! Take cover! ⚠
@@ -256,17 +291,17 @@ luckywars-game-prepare = <yellow>The game will start in <white>$time <yellow>sec
 luckywars-game-no_team-message = <#f7f286>Remember, every man for himself!
 luckywars-game-message-no_rewards = <#f7f286>Not enough players! Match rewards are disabled.
 luckywars-game-message-rewards = <#f7f286> Match rewards are enabled!
-luckywars-game-start = <#FFCF00><font:luckywars:icons>b<font:default> <yellow>The game has begun! <#FFCF00><font:luckywars:icons>b
+luckywars-game-start = <#FFCF00><sprite:items:'luckywars:item/gui/blade_mirror'> <yellow>The game has begun! <sprite:items:'luckywars:item/gui/blade'>
 luckywars-game-start-subtitle = <red>There is only one winner!
 luckywars-game-no_players = <#f7f286>Not enough players to start!
 luckywars-game-get_ready = <#ee9a62>... Get ready ...
-luckywars-game-barrier_event = <gold>⚠ Barrier event ⚠
+luckywars-game-barrier_event = <gold><sprite:items:'luckywars:item/gui/warn'> Barrier event <sprite:items:'luckywars:item/gui/warn'>
 luckywars-game-barrier_event-message = <#f7f286>The barrier began to shrink!
-luckywars-game-destroy_event = <#FF2200>⚠ Annihilation ⚠
+luckywars-game-destroy_event = <#FF2200><sprite:items:'luckywars:item/gui/warn'> Annihilation <sprite:items:'luckywars:item/gui/warn'>
 luckywars-game-destroy_event-message = <#f7f286>Annihilation! Only one will survive!
 
 luckywars-game-death = <white>$killer <yellow>$icon <red>$victim <#FF0000>☠
-luckywars-game-death-title = <#FF2200>☠ <red>Defeat <#FF2200>☠
+luckywars-game-death-title = <#FF2200><sprite:items:'luckywars:item/gui/skull'> <red>Defeat <#FF2200><sprite:items:'luckywars:item/gui/skull'>
 luckywars-game-death-subtitle = <#FFAA00>You were killed by $killer
 luckywars-game-victory = <#FFEF00><font:luckywars:icons>a<font:default> <yellow>Victory <#FFEF00><font:luckywars:icons>a
 luckywars-death-stats = Stats: <yellow>$placest <white>place, <red>$kills <white>kills
@@ -394,61 +429,62 @@ luckywars-achievement-sapper-lore [
 luckywars-achievement-open_cases-name = <yellow>Tester of Fortune
 luckywars-achievement-open_cases-title = <font:luckywars:name_legend>&+[TESTER OF FORTUNE&+]
 luckywars-achievement-open_cases-lore [
-<white>
-<white>∙ Open any <yellow>5<white> cases.
-<white>
+    <white>
+    <white>∙ Open any <yellow>5<white> cases.
+    <white>
 ]
 
 luckywars-achievement-victory_series-name = <yellow>Victorious
 luckywars-achievement-victory_series-title = <font:luckywars:name_legend>&+[VICTORIAL&+]
 luckywars-achievement-victory_series-lore [
-<white>
-<white>∙ Win <yellow>3<white> times in a row.
-<white>
+    <white>
+    <white>∙ Win <yellow>3<white> times in a row
+    <white>  in a 4-player game.
+    <white>
 ]
 
 luckywars-achievement-millidos-name = <yellow>One-Punch Man
 luckywars-achievement-millidos-title = <font:luckywars:name_legend>&+[ONE PUNCH MAN&+]
 luckywars-achievement-millidos-lore [
-<white>
-<white>∙ Deal over <yellow>100<white> damage to a player
-<white>  per hit with the <yellow>Sword of Millidos<white>.
-<white>
+    <white>
+    <white>∙ Deal over <yellow>100<white> damage to a player
+    <white>  per hit with the <yellow>Sword of Millidos<white>.
+    <white>
 ]
 
 luckywars-achievement-pizza_plain-name = <yellow>Pizzalette
 luckywars-achievement-pizza_plain-title = <font:luckywars:name_legend>&+[PIZZALETTE&+]
 luckywars-achievement-pizza_plain-lore [
-<white>
-<white>∙ Catch <yellow>15<white> players
-<white>  with the <yellow>Instoppable Pizza<white>.
-<white>
+    <white>
+    <white>∙ Catch <yellow>15<white> players
+    <white>  with the <yellow>Instoppable Pizza<white>.
+    <white>
 ]
 
 luckywars-achievement-ufo_destroyer-name = <yellow>No-Fly Zone
 luckywars-achievement-ufo_destroyer-title = <font:luckywars:name_legend>&+[NO FLY ZONE&+]
 luckywars-achievement-ufo_destroyer-lore [
-<white>
-<white>∙ Shoot down the <yellow>UFO<white> controlled by
-<white>  another player.
-<white>
+    <white>
+    <white>∙ Shoot down the <yellow>UFO<white> controlled by
+    <white>  another player.
+    <white>
 ]
 
 luckywars-achievement-hot_combo-name = <yellow>Hot Combo
 luckywars-achievement-hot_combo-title = <font:luckywars:name_legend>&+[HOT COMBO&+]
 luckywars-achievement-hot_combo-lore [
-<white>
-<white>∙ Burn another player in <yellow>lava<white>, while they
-<white>  are under the effect of <yellow>Vulnerability<white>.
-<white>
+    <white>
+    <white>∙ Burn another player in <yellow>lava<white>, while they
+    <white>  are under the effect of <yellow>Vulnerability<white>.
+    <white>
 ]
 
 luckywars-achievement-to_stars-name = <yellow>To the Stars
 luckywars-achievement-to_stars-title = <font:luckywars:name_legend>&+[TO THE STARS&+]
 luckywars-achievement-to_stars-lore [
-<white>
-<white>∙ Climb to a height of <yellow>2,000<white> blocks.
-<white>
+    <white>
+    <white>∙ Climb to a height of <yellow>2,000<white> blocks.
+    <white>
 ]
 
 luckywars-commands-no_money = <red>Not enough funds!
@@ -458,14 +494,13 @@ luckywars-commands-leave-fail = <red>You are not in the game!
 luckywars-commands-play-fail = <red>You already in game!
 luckywars-protocol_warning = <#f7f286>We recommend playing on 1.21.8.
 luckywars-resourcepack-kick-message [
-    <red>
-    <red>On the Lucky Wars server, a resource pack is required to play. If you are get jailed immediately after entering, open the server settings in the server menu and change the "Resource Packs" parameter to "Allowed".
-    <red>
+    <red><bold>FAILED TO LOAD RESOURCE PACK!</bold>
+    <red>On Lucky Wars, the resource pack is required to play! Please open the server settings in the server list and change "Resource Packs" to "Allowed".
+    <red>If this doesn't help, contact us through any social media <bold>/site</bold>.
 ]
 luckywars-version-kick-message [
-    <red>
-    <red>On the Lucky Wars server you can play only from versions 1.21 - 1.21.8!
-    <red>
+    <red><bold>OUTDATED GAME VERSION</bold>
+    <red>On Lucky Wars, you can only play on versions 1.21 - 26.2! Recommended version: 1.21.11.
 ]
 luckywars-item-info_book = <red>Why can't I play?
 luckywars-item-achievements = <font:luckywars:name_rare>&+[ACHIEVEMENTS&+]
@@ -512,9 +547,12 @@ luckywars-kit_start-selected = <green>✔<bold> SELECTED
 luckywars-item-kit_start-default = <font:luckywars:name_usaly>&+[DEFAULT&+]
 luckywars-item-kit_start-bomber = <font:luckywars:name_usaly>&+[DEMOMAN&+]
 luckywars-item-kit_start-fishman = <font:luckywars:name_usaly>&+[FISHERMAN&+]
-luckywars-item-kit_start-alchemist = <font:luckywars:name_usaly>&+[ALCHEMIST&+]
+luckywars-item-kit_start-alchemist = <font:luckywars:name_usaly>&+[WIZARD&+]
 luckywars-item-kit_start-spider = <font:luckywars:name_usaly>&+[SPIDER&+]
-luckywars-item-kit_start-winter = <font:luckywars:name_usaly>&+[WINTER&+]
+luckywars-item-kit_start-winter = <font:luckywars:name_usaly>&+[CHRISTMAS WHIRL&+]
+luckywars-item-kit_start-slime = <font:luckywars:name_usaly>&+[SLIME&+]
+luckywars-item-kit_start-samurai = <font:luckywars:name_usaly>&+[NINJA&+]
+luckywars-item-kit_start-cool = <font:luckywars:name_usaly>&+[CHARISMA&+]
 
 
 luckywars-price = Price: <gold>$price <font:luckywars:icons>h
@@ -550,10 +588,13 @@ luckywars-item-lore-case-kit_starts [
     <white>
     <white>☷ Case contents:
     <white>
-    <red>Winter kit
+    <red>Charisma kit
+    <red>Christmas Whirl kit
     <yellow>Fisherman kit
+    <yellow>Ninja kit
     <green>Demoman kit
+    <green>Slime kit
+    <#ABC4D6>Wizard kit
     <#ABC4D6>Spider kit
-    <#ABC4D6>Alchemist kit
 ]
 end
