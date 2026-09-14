@@ -247,7 +247,7 @@ luckywars-item-lore-hats-sun_glasses [
     <font:luckywars:lore_border>1+<font:luckywars:lore>&+CHARISMA&+<font:luckywars:lore_border>0
     <font:luckywars:lore_border>&+C--------+&+D
 ]
-luckywars-item-ninja_hat = <font:luckywars:name_rare><white>&+[NINJA MASK&+]
+luckywars-item-ninja_hat = <font:luckywars:name_usaly><white>&+[NINJA MASK&+]
 luckywars-item-wooden_multitool = <font:luckywars:name_usaly><white>&+[WOODEN MULTITOOL&+]
 luckywars-item-stone_multitool = <font:luckywars:name_usaly><white>&+[STONE MULTITOOL&+]
 luckywars-item-iron_multitool = <font:luckywars:name_usaly><white>&+[IRON MULTITOOL&+]

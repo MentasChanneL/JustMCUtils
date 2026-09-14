@@ -208,7 +208,7 @@ luckywars-item-lore-bunny_boots [
 ]
 luckywars-item-katana = <font:luckywars:name_usaly>&+[КАТАНА&+]
 luckywars-item-lore-katana [
-    <font:luckywars:lore_border>&+A__________________+_+&++B
+    <font:luckywars:lore_border>&+A___________________+_&++B
     <font:luckywars:lore_border>1+<font:luckywars:lore>&+СТИЛЬ САМУРАЯ.      ++ &++<font:luckywars:lore_border>0
     <font:luckywars:lore_border>1+<font:luckywars:lore>&+                    +&++<font:luckywars:lore_border>0
     <font:luckywars:lore_border>1+<font:luckywars:lore>&+ДЕЛАЙ РЫВКИ НА ПКМ  ++&+<font:luckywars:lore_border>+0
@@ -244,7 +244,7 @@ luckywars-item-lore-hats-sun_glasses [
     <font:luckywars:lore_border>1+<font:luckywars:lore>&+СТО К ХАРИЗМЕ&+<font:luckywars:lore_border>0
     <font:luckywars:lore_border>&+C-------------++-+&+D
 ]
-luckywars-item-ninja_hat = <font:luckywars:name_rare><white>&+[МАСКА НИНДЗЯ&+]
+luckywars-item-ninja_hat = <font:luckywars:name_usaly><white>&+[МАСКА НИНДЗЯ&+]
 luckywars-item-wooden_multitool = <font:luckywars:name_usaly><white>&+[ДЕРЕВЯННЫЙ МУЛЬТИТУЛ&+]
 luckywars-item-stone_multitool = <font:luckywars:name_usaly><white>&+[КАМЕННЫЙ МУЛЬТИТУЛ&+]
 luckywars-item-iron_multitool = <font:luckywars:name_usaly><white>&+[ЖЕЛЕЗНЫЙ МУЛЬТИТУЛ&+]
