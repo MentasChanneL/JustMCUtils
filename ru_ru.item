@@ -301,7 +301,7 @@ luckywars-game-destroy_event-message = <#f7f286>Аннигиляция! Выжи
 luckywars-game-death = <white>$killer <yellow>$icon <red>$victim <#FF0000>☠
 luckywars-game-death-title = <#FF2200><sprite:items:'luckywars:item/gui/skull'> <red>Поражение <#FF2200><sprite:items:'luckywars:item/gui/skull'>
 luckywars-game-death-subtitle = <#FFAA00>Вас убил $killer
-luckywars-game-victory = <#FFEF00><font:luckywars:icons>a<font:default> <yellow>Победа <#FFEF00><font:luckywars:icons>a
+luckywars-game-victory = <#FFEF00><sprite:items:'luckywars:item/gui/cup'> <yellow>Победа <#FFEF00><sprite:items:'luckywars:item/gui/cup'>
 luckywars-death-stats = Статистика: <yellow>$place <white>место, <red>$kills <white>убийств
 luckywars-death-info = <#FF700A>Вы проиграли!<#FFB656> Используйте <underlined><#FFF000><click:run_command:'/play'><hover:show_text:'Готов? Жми!'>/play<reset><#FFB656>, чтобы начать новый подбор игры или <underlined><#FFF000><click:run_command:'/s'>/s<reset><#FFB656>, чтобы переместиться на спавн.
 luckywars-top-top = <yellow>┌─ ʟᴜᴄᴋʏ ᴡᴀʀꜱ
@@ -354,7 +354,7 @@ luckywars-sidebar-field-balance = <#ebedc9>    Изумруды: <green>$value<f
 luckywars-sidebar-field-server = <yellow>      play.justmc.io
 
 luckywars-achievement-progress = <#AFEA00>☑ <gold>Прогресс: <yellow>$progress
-luckywars-achievement-reward = <#FFEF00><font:luckywars:icons>a<font:default> <gold>Награды: <#AFEA00>+$balance<font:s><tr:s.2><font:luckywars:icons>h<font:default> <green>+$experience<font:s><tr:s.2><font:default>xp
+luckywars-achievement-reward = <#FFEF00><sprite:items:'luckywars:item/gui/cup'> <gold>Награды: <#AFEA00>+$balance<font:s><tr:s.2><font:luckywars:icons>h<font:default> <green>+$experience<font:s><tr:s.2><font:default>xp
 luckywars-achievement-completed = <green>✔<bold> ПОЛУЧЕНО
 luckywars-achievement-not_completed = <dark_gray>❌<bold> НЕ ПОЛУЧЕНО
 luckywars-achievement-completed_message = <green>✔ Вы выполнили достижение "$name"!
